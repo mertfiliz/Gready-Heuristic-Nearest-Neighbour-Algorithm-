@@ -1,0 +1,9 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 1 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+Back to: Istanbul, Turkey  ----->  0.0 KM traveled.
+
+Total Distance is  ----->  0.0 KM
+
+Total Execution time: 2 ms

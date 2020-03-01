@@ -1,0 +1,38 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 30 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Bursa, Turkey  ----->  94.21140174029203 KM traveled.
+3. Eskisehir, Turkey  ----->  133.09995049858264 KM traveled.
+4. Afyon, Turkey  ----->  113.94822240667189 KM traveled.
+5. Aksehir, Turkey  ----->  88.16109917769019 KM traveled.
+6. Isparta, Turkey  ----->  100.25886884629168 KM traveled.
+7. Finike, Turkey  ----->  84.84902272773837 KM traveled.
+8. Antalya, Turkey  ----->  53.92288428067103 KM traveled.
+9. Fethiye, Turkey  ----->  155.81053856701885 KM traveled.
+10. Bodrum, Turkey  ----->  171.97921800316158 KM traveled.
+11. Izmir, Turkey  ----->  157.22263184299413 KM traveled.
+12. Edirne, Turkey  ----->  58.400431462322935 KM traveled.
+13. Bergama, Turkey  ----->  72.30113391755984 KM traveled.
+14. Denizli, Turkey  ----->  214.75252776274084 KM traveled.
+15. Anamur, Turkey  ----->  389.84826000480126 KM traveled.
+16. Inebolu, Turkey  ----->  100.14012884400788 KM traveled.
+17. Adana, Turkey  ----->  145.40308344068333 KM traveled.
+18. Iskenderun, Turkey  ----->  113.92507664846285 KM traveled.
+19. Antakya, Turkey  ----->  172.07746070701134 KM traveled.
+20. Elazig, Turkey  ----->  313.0055977128394 KM traveled.
+21. Erzurum, Turkey  ----->  208.53255683776206 KM traveled.
+22. Erzincan, Turkey  ----->  400.965394247808 KM traveled.
+23. Bayburt, Turkey  ----->  76.53390749857982 KM traveled.
+24. Diyarbakir, Turkey  ----->  156.3905965720432 KM traveled.
+25. Artvin, Turkey  ----->  143.97805387183453 KM traveled.
+26. Gaziantep, Turkey  ----->  382.1292322343687 KM traveled.
+27. Carsamba, Turkey  ----->  101.27554740678688 KM traveled.
+28. Amasya, Turkey  ----->  96.38557821888796 KM traveled.
+29. Eregli, Turkey  ----->  183.3787887477926 KM traveled.
+30. Ankara, Turkey  ----->  105.33219919120664 KM traveled.
+Back to: Istanbul, Turkey  ----->  353.0012110553399 KM traveled.
+
+Total Distance is  ----->  4941.220604473952 KM
+
+Total Execution time: 6 ms

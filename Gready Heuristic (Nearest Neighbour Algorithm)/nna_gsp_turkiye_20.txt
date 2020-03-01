@@ -1,0 +1,28 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 20 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Bursa, Turkey  ----->  94.21140174029203 KM traveled.
+3. Bergama, Turkey  ----->  201.0928566087324 KM traveled.
+4. Denizli, Turkey  ----->  225.71889723767327 KM traveled.
+5. Afyon, Turkey  ----->  167.7966318065439 KM traveled.
+6. Aksehir, Turkey  ----->  88.16109917769019 KM traveled.
+7. Antalya, Turkey  ----->  176.12425937204023 KM traveled.
+8. Anamur, Turkey  ----->  210.18208479086277 KM traveled.
+9. Eregli, Turkey  ----->  193.5318227086998 KM traveled.
+10. Adana, Turkey  ----->  122.77281197829399 KM traveled.
+11. Antakya, Turkey  ----->  114.84971040364283 KM traveled.
+12. Elazig, Turkey  ----->  388.46334708667814 KM traveled.
+13. Diyarbakir, Turkey  ----->  122.027581490295 KM traveled.
+14. Bayburt, Turkey  ----->  262.5032431120525 KM traveled.
+15. Artvin, Turkey  ----->  167.3149216785746 KM traveled.
+16. Carsamba, Turkey  ----->  427.801998584635 KM traveled.
+17. Amasya, Turkey  ----->  96.38557821888796 KM traveled.
+18. Ankara, Turkey  ----->  266.32279444644695 KM traveled.
+19. Edirne, Turkey  ----->  566.8889752833693 KM traveled.
+20. Bodrum, Turkey  ----->  523.5805669584153 KM traveled.
+Back to: Istanbul, Turkey  ----->  465.2678350552253 KM traveled.
+
+Total Distance is  ----->  4880.998417739052 KM
+
+Total Execution time: 5 ms

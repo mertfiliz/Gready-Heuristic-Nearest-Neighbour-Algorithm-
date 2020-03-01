@@ -1,0 +1,48 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 40 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Izmit, Turkey  ----->  84.93553966227458 KM traveled.
+3. Bursa, Turkey  ----->  97.77247244634346 KM traveled.
+4. Eskisehir, Turkey  ----->  133.09995049858264 KM traveled.
+5. Afyon, Turkey  ----->  113.94822240667189 KM traveled.
+6. Aksehir, Turkey  ----->  88.16109917769019 KM traveled.
+7. Isparta, Turkey  ----->  100.25886884629168 KM traveled.
+8. Finike, Turkey  ----->  84.84902272773837 KM traveled.
+9. Antalya, Turkey  ----->  53.92288428067103 KM traveled.
+10. Fethiye, Turkey  ----->  155.81053856701885 KM traveled.
+11. Bodrum, Turkey  ----->  171.97921800316158 KM traveled.
+12. Izmir, Turkey  ----->  157.22263184299413 KM traveled.
+13. Edirne, Turkey  ----->  58.400431462322935 KM traveled.
+14. Bergama, Turkey  ----->  72.30113391755984 KM traveled.
+15. Denizli, Turkey  ----->  214.75252776274084 KM traveled.
+16. Konya, Turkey  ----->  301.49935793266604 KM traveled.
+17. Inebolu, Turkey  ----->  181.99591722420502 KM traveled.
+18. Anamur, Turkey  ----->  100.14012884400788 KM traveled.
+19. Adana, Turkey  ----->  244.26966585706512 KM traveled.
+20. Iskenderun, Turkey  ----->  113.92507664846285 KM traveled.
+21. Kayseri, Turkey  ----->  121.30579718583223 KM traveled.
+22. Kirsehir, Turkey  ----->  125.14339668526094 KM traveled.
+23. Eregli, Turkey  ----->  65.35841230693501 KM traveled.
+24. Kirikkale, Turkey  ----->  48.51694251278285 KM traveled.
+25. Ankara, Turkey  ----->  56.825333616811946 KM traveled.
+26. Karabuk, Turkey  ----->  143.437563838637 KM traveled.
+27. Kastamonu, Turkey  ----->  99.19972566048216 KM traveled.
+28. Amasya, Turkey  ----->  192.11485507933307 KM traveled.
+29. Carsamba, Turkey  ----->  135.8582444687579 KM traveled.
+30. Gaziantep, Turkey  ----->  75.0241007904905 KM traveled.
+31. Elazig, Turkey  ----->  212.9621804751967 KM traveled.
+32. Bayburt, Turkey  ----->  95.52367551789837 KM traveled.
+33. Artvin, Turkey  ----->  167.3149216785746 KM traveled.
+34. Erzurum, Turkey  ----->  99.11104707326469 KM traveled.
+35. Malatya, Turkey  ----->  476.7424402403896 KM traveled.
+36. Karakose, Turkey  ----->  35.03991337888684 KM traveled.
+37. Diyarbakir, Turkey  ----->  164.59377088188972 KM traveled.
+38. Erzincan, Turkey  ----->  120.72453981956821 KM traveled.
+39. Antakya, Turkey  ----->  305.1012797001176 KM traveled.
+40. Kirklareli, Turkey  ----->  987.6785531314587 KM traveled.
+Back to: Istanbul, Turkey  ----->  168.2241122309665 KM traveled.
+
+Total Distance is  ----->  6425.045494382006 KM
+
+Total Execution time: 8 ms

@@ -1,0 +1,1608 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 1600 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Bursa, Turkey  ----->  94.21140174029203 KM traveled.
+3. Bergama, Turkey  ----->  201.0928566087324 KM traveled.
+4. Alexandroupolis, Greece  ----->  223.4059157841748 KM traveled.
+5. Byala, Bulgaria  ----->  211.57865029626834 KM traveled.
+6. Aytos, Bulgaria  ----->  87.87920140453703 KM traveled.
+7. Burgas, Bulgaria  ----->  28.74537511266031 KM traveled.
+8. Bricany, Moldova  ----->  148.97613527151043 KM traveled.
+9. Bukavu, Congo (Kinshasa)  ----->  218.6906640076148 KM traveled.
+10. Bujumbura, Burundi  ----->  1.348699152348609E-4 KM traveled.
+11. Afyon, Turkey  ----->  186.6995883762202 KM traveled.
+12. Aksehir, Turkey  ----->  88.16109917769019 KM traveled.
+13. Beirut, Lebanon  ----->  130.008202265295 KM traveled.
+14. Baba Bakala, Punjab  ----->  118.40529762031092 KM traveled.
+15. Al Qamishli, Syria  ----->  75.72435760236432 KM traveled.
+16. Antalaha, Madagascar  ----->  165.97838701889867 KM traveled.
+17. Al Miknasi, Tunisia  ----->  252.48509882303418 KM traveled.
+18. Besancon, France  ----->  199.9290865377479 KM traveled.
+19. Bega, New South Wales  ----->  124.70100164637252 KM traveled.
+20. As Salimiyah, Kuwait  ----->  287.517299006538 KM traveled.
+21. Blagoevgrad, Bulgaria  ----->  138.1990917125435 KM traveled.
+22. Alpine, Texas  ----->  130.80802141949812 KM traveled.
+23. Al Jafr, Jordan  ----->  126.53526959234107 KM traveled.
+24. Al Maqwa, Kuwait  ----->  379.4851507189928 KM traveled.
+25. Aligarh, Uttar Pradesh  ----->  132.95897786308817 KM traveled.
+26. Birak, Libya  ----->  232.31381702086145 KM traveled.
+27. Al Jumayliyah, Qatar  ----->  101.61083432543985 KM traveled.
+28. Bir Zikrit, Qatar  ----->  101.61083432543985 KM traveled.
+29. Augusta, Maine  ----->  194.50902787054252 KM traveled.
+30. Bauchi, Nigeria  ----->  232.51044786891794 KM traveled.
+31. Al Ubaylah, Saudi Arabia  ----->  129.34397932602548 KM traveled.
+32. Bardejov, Slovakia  ----->  100.0746020759901 KM traveled.
+33. Baramula, Kashmir  ----->  145.14746630462105 KM traveled.
+34. Al Jamm, Tunisia  ----->  366.2751572995741 KM traveled.
+35. Barcelona, Spain  ----->  232.22462620839636 KM traveled.
+36. Barbil, Orissa  ----->  0.0 KM traveled.
+37. Arad, Israel  ----->  30.437959715434737 KM traveled.
+38. Bartica, Guyana  ----->  88.45884750711697 KM traveled.
+39. Arta, Djibouti  ----->  53.584493648140274 KM traveled.
+40. Alytus, Lithuania  ----->  208.49937205182096 KM traveled.
+41. Bilasuvar, Azerbaijan  ----->  195.93600185576827 KM traveled.
+42. Baotou, China  ----->  83.10923674113614 KM traveled.
+43. Belgrade, Yugoslavia  ----->  346.719958159205 KM traveled.
+44. Bizerte, Tunisia  ----->  122.29338442975042 KM traveled.
+45. Bangued, Philippines  ----->  326.16751931718255 KM traveled.
+46. Al Qatranah, Jordan  ----->  68.83351420105151 KM traveled.
+47. Bolzano, Italy  ----->  167.77617299023228 KM traveled.
+48. Borger, Texas  ----->  63.992418323123246 KM traveled.
+49. Anyos, Andorra  ----->  78.05705894451968 KM traveled.
+50. Ayacucho, Peru  ----->  335.78572796615475 KM traveled.
+51. Agadez, Niger  ----->  220.6794086976808 KM traveled.
+52. Ann Arbor, Michigan  ----->  146.92223900021156 KM traveled.
+53. Bourke, New South Wales  ----->  197.778055633188 KM traveled.
+54. Berekum, Ghana  ----->  212.69264981335115 KM traveled.
+55. Amherst, Nova Scotia  ----->  365.13028394278246 KM traveled.
+56. Anxi, China  ----->  127.66332054896696 KM traveled.
+57. Bogota, Colombia  ----->  367.7365035626322 KM traveled.
+58. Alibag, Maharashtra  ----->  116.00585510950027 KM traveled.
+59. Adrar, Algeria  ----->  244.323108335541 KM traveled.
+60. Almelo, Netherlands  ----->  216.06136495603167 KM traveled.
+61. Bou Anane, Morocco  ----->  121.9767032875792 KM traveled.
+62. Bathsheba, Barbados  ----->  172.04639595397055 KM traveled.
+63. Abadla, Algeria  ----->  65.15800421609434 KM traveled.
+64. Bradford, Pennsylvania  ----->  94.70579496615123 KM traveled.
+65. Bottineau, North Dakota  ----->  198.30474055320207 KM traveled.
+66. Bayanhongor, Mongolia  ----->  196.60467018419737 KM traveled.
+67. Biloela, Queensland  ----->  157.91907702688692 KM traveled.
+68. All Saints, Antigua and Barbuda  ----->  195.24901134833294 KM traveled.
+69. Belonia, Tripura  ----->  82.75610043068836 KM traveled.
+70. Andamooka, South Australia  ----->  180.67058006723548 KM traveled.
+71. Bougouni, Mali  ----->  179.6250912510233 KM traveled.
+72. An Nawfaliyah, Libya  ----->  182.84778731997974 KM traveled.
+73. Armidale, New South Wales  ----->  260.69079753820034 KM traveled.
+74. Bassikounou, Mauritania  ----->  331.415145726167 KM traveled.
+75. Bastogne, Belgium  ----->  114.1542120819919 KM traveled.
+76. Brokopondo, Suriname  ----->  32.89048788052162 KM traveled.
+77. Bendaja, Liberia  ----->  75.58118113468561 KM traveled.
+78. Adh Dhahibat, Tunisia  ----->  114.13389129031621 KM traveled.
+79. An Nabk, Syria  ----->  141.82945109043789 KM traveled.
+80. Akurenan, Equatorial Guinea  ----->  190.44611258511836 KM traveled.
+81. Al Mahallah al Kubra, Egypt  ----->  92.55536360346197 KM traveled.
+82. Bolungavik, Iceland  ----->  131.83030050687506 KM traveled.
+83. Adri, Libya  ----->  190.52102911499298 KM traveled.
+84. Bacchus Marsh, Victoria  ----->  292.53297604556934 KM traveled.
+85. Birzai, Lithuania  ----->  58.72968383771041 KM traveled.
+86. Akieni, Gabon  ----->  68.02410761863736 KM traveled.
+87. Bardstown, Kentucky  ----->  53.57638991921052 KM traveled.
+88. Bel Air, Maryland  ----->  307.97433937083963 KM traveled.
+89. Al Khubar, Saudi Arabia  ----->  238.09841180542008 KM traveled.
+90. Bodinayakkanur, Tamil Nadu  ----->  229.28123512573023 KM traveled.
+91. Bokong, Lesotho  ----->  124.88397896027233 KM traveled.
+92. Big Timber, Montana  ----->  127.00627851271229 KM traveled.
+93. Al Fujayrah, United Arab Emirates  ----->  87.14682471616342 KM traveled.
+94. Bani, Dominican Republic  ----->  320.287152597651 KM traveled.
+95. Bandar Seri Begawan, Brunei  ----->  55.3074827377544 KM traveled.
+96. Bathinda, Punjab  ----->  161.61107684054974 KM traveled.
+97. Bangassou, Central African Republic  ----->  203.2111721887598 KM traveled.
+98. Bocay, Nicaragua  ----->  187.85331604214755 KM traveled.
+99. Alligator Pond, Jamaica  ----->  302.68793351074413 KM traveled.
+100. Brewton, Alabama  ----->  320.6313153666452 KM traveled.
+101. Borzya, Russia  ----->  65.71709396930657 KM traveled.
+102. Bosanska Krupa, Bosnia-Herzegovina  ----->  136.9729992100073 KM traveled.
+103. Bhuj, Gujarat  ----->  432.41805326152365 KM traveled.
+104. Blantyre, Malawi  ----->  346.41112947318476 KM traveled.
+105. Bumba, Congo (Kinshasa)  ----->  82.4414399133361 KM traveled.
+106. Bhubaneshwar, Orissa  ----->  163.4960043526615 KM traveled.
+107. Ainazi, Latvia  ----->  141.27269519167996 KM traveled.
+108. Alexandria, Minnesota  ----->  437.99224736451504 KM traveled.
+109. Boki, Cameroon  ----->  346.8858534776712 KM traveled.
+110. Borigumma, Orissa  ----->  19.27068725491195 KM traveled.
+111. Buba, Guinea-Bissau  ----->  109.69676248007988 KM traveled.
+112. Bir Ali, Yemen  ----->  139.39728262729355 KM traveled.
+113. Bunya, Swaziland  ----->  374.5435653017887 KM traveled.
+114. Bunia, Congo (Kinshasa)  ----->  83.91541474353475 KM traveled.
+115. Bielefeld, Germany  ----->  183.79912428400868 KM traveled.
+116. Bin Qirdan, Tunisia  ----->  402.17565352377625 KM traveled.
+117. As Sallum, Egypt  ----->  69.52602909454657 KM traveled.
+118. Al Hillah, Iraq  ----->  164.867900718894 KM traveled.
+119. As Suwar, Syria  ----->  21.26788215982494 KM traveled.
+120. Adi Ugri, Eritrea  ----->  243.404860366419 KM traveled.
+121. Adigrat, Ethiopia  ----->  97.10428516394383 KM traveled.
+122. Al Marj, Libya  ----->  109.64124631245834 KM traveled.
+123. Abha, Saudi Arabia  ----->  467.0503100782704 KM traveled.
+124. Ayoun el Atrous, Mauritania  ----->  26.741877930060998 KM traveled.
+125. Bantry, Ireland  ----->  220.21165071784696 KM traveled.
+126. An Nashshash, United Arab Emirates  ----->  183.706038274597 KM traveled.
+127. Ash Shuwayfat, Lebanon  ----->  276.5690588607765 KM traveled.
+128. Assomada, Cape Verde  ----->  143.89705891463296 KM traveled.
+129. Aradhippou, Cyprus  ----->  240.84300936190903 KM traveled.
+130. Antalya, Turkey  ----->  347.14361342054116 KM traveled.
+131. Baker, Oregon  ----->  257.80902503563857 KM traveled.
+132. Ambositra, Madagascar  ----->  118.63797714828081 KM traveled.
+133. Al Amarah, Iraq  ----->  123.5485842169264 KM traveled.
+134. Al Jaghbub, Libya  ----->  142.7259490107363 KM traveled.
+135. Bintulu, Malaysia  ----->  66.32900277657826 KM traveled.
+136. Al Ahmadi, Kuwait  ----->  67.41840359906696 KM traveled.
+137. Al Maqnah, Saudi Arabia  ----->  24.093968598058275 KM traveled.
+138. Al Fayyum, Egypt  ----->  110.48496071382175 KM traveled.
+139. Agdam, Azerbaijan  ----->  117.35881230286563 KM traveled.
+140. Ahwar, Yemen  ----->  134.15178368018556 KM traveled.
+141. As Sukhayrah, Tunisia  ----->  147.02991313474607 KM traveled.
+142. Aquin, Haiti  ----->  236.61872560322794 KM traveled.
+143. Al Qunaytirah, Syria  ----->  253.90802871480213 KM traveled.
+144. Al Labwah, Lebanon  ----->  130.33478983521368 KM traveled.
+145. Asmar, Afghanistan  ----->  181.65629817679346 KM traveled.
+146. Al Bab, Syria  ----->  178.27860934940873 KM traveled.
+147. Al Qaysumah, Saudi Arabia  ----->  207.47095020877592 KM traveled.
+148. Al Badi, Saudi Arabia  ----->  129.21784033044318 KM traveled.
+149. Bani Walid, Libya  ----->  123.01928052571955 KM traveled.
+150. Betare Oya, Cameroon  ----->  217.5014410127163 KM traveled.
+151. Aruppukkottai, Tamil Nadu  ----->  213.3903331128979 KM traveled.
+152. Azaz, Syria  ----->  245.9682122840924 KM traveled.
+153. Arad, Bahrain  ----->  171.89213117490596 KM traveled.
+154. Akaki, Cyprus  ----->  397.0634322035858 KM traveled.
+155. Atar, Mauritania  ----->  277.0853767859534 KM traveled.
+156. Brza Palanka, Yugoslavia  ----->  288.2444745792539 KM traveled.
+157. Azua, Dominican Republic  ----->  103.54472629707085 KM traveled.
+158. Arani, Tamil Nadu  ----->  148.26611294856232 KM traveled.
+159. Addis Ababa, Ethiopia  ----->  218.99850953854903 KM traveled.
+160. Ar Rumaytha, Bahrain  ----->  378.0208704045055 KM traveled.
+161. Boone, North Carolina  ----->  322.6487263512019 KM traveled.
+162. Balzar, Ecuador  ----->  209.60500600377082 KM traveled.
+163. Buulo Berde, Somalia  ----->  164.05169946628956 KM traveled.
+164. Banam, Cambodia  ----->  116.96721848233538 KM traveled.
+165. Ban Houayxay, Laos  ----->  12.28711793402636 KM traveled.
+166. Ceel Buur, Somalia  ----->  158.18188983532747 KM traveled.
+167. Bekescsaba, Hungary  ----->  228.06776585561903 KM traveled.
+168. Boone, Iowa  ----->  311.0466748383405 KM traveled.
+169. Bamy, Turkmenistan  ----->  398.77047992765233 KM traveled.
+170. Caluula, Somalia  ----->  206.59043103308255 KM traveled.
+171. Aden, Yemen  ----->  123.33056343303983 KM traveled.
+172. Babadag, Romania  ----->  375.32138321295963 KM traveled.
+173. Agstafa, Azerbaijan  ----->  464.4943160387311 KM traveled.
+174. As Ela, Djibouti  ----->  231.75118014646407 KM traveled.
+175. Ceerigaabo, Somalia  ----->  327.40138240729016 KM traveled.
+176. Burbank, California  ----->  232.9932857036734 KM traveled.
+177. As Salamiyah, Syria  ----->  178.26927361988416 KM traveled.
+178. Benzdorp, Suriname  ----->  56.93692054805049 KM traveled.
+179. Amarillo, Texas  ----->  226.26963707141874 KM traveled.
+180. Adzope, Ivory Coast  ----->  304.96172452006385 KM traveled.
+181. Algiers, Algeria  ----->  122.22470729036947 KM traveled.
+182. Buur Hakaba, Somalia  ----->  294.6415149629866 KM traveled.
+183. Anderson, South Carolina  ----->  595.6339765357242 KM traveled.
+184. Anderson, Indiana  ----->  9.5367431640625E-5 KM traveled.
+185. Bryson City, North Carolina  ----->  629.1774779728722 KM traveled.
+186. Bakhtaran, Iran  ----->  1139.9996509387283 KM traveled.
+187. Bugarama, Rwanda  ----->  315.9382300068871 KM traveled.
+188. Anderson, Alaska  ----->  552.8646687312769 KM traveled.
+189. Bejaia, Algeria  ----->  143.16203377793732 KM traveled.
+190. Bagamoyo, Tanzania  ----->  608.4119435798086 KM traveled.
+191. Bari, Italy  ----->  347.6684860407426 KM traveled.
+192. Appomattox, Virginia  ----->  245.91022128245226 KM traveled.
+193. Azraq ash Shishan, Jordan  ----->  242.22899090881165 KM traveled.
+194. Cannanore, Kerala  ----->  30.85565169741344 KM traveled.
+195. Birnin Kebbi, Nigeria  ----->  84.17680555388398 KM traveled.
+196. Calicut, Kerala  ----->  206.58224677442655 KM traveled.
+197. Cali, Colombia  ----->  94.94591130847246 KM traveled.
+198. Belo Horizonte, Brazil  ----->  198.01596113533225 KM traveled.
+199. Bocas del Toro, Panama  ----->  180.20567713330223 KM traveled.
+200. Bialystok, Poland  ----->  383.3779341144135 KM traveled.
+201. Bangar, Brunei  ----->  307.53265258098617 KM traveled.
+202. Ahaggar Mountains, Algeria  ----->  68.12332050127394 KM traveled.
+203. Alwar, Rajasthan  ----->  72.58357990837091 KM traveled.
+204. Akola, Maharashtra  ----->  217.84637112585366 KM traveled.
+205. Bawani Khera, Haryana  ----->  78.86591356534417 KM traveled.
+206. Bauta, Cuba  ----->  0.0 KM traveled.
+207. Arak, Iran  ----->  225.44725744107467 KM traveled.
+208. Bharuch, Gujarat  ----->  611.1920925059619 KM traveled.
+209. Bakouma, Central African Republic  ----->  223.73816989572907 KM traveled.
+210. Beyneu, Kazakstan  ----->  291.0016423041684 KM traveled.
+211. Bhawanipatna, Orissa  ----->  178.08280063699183 KM traveled.
+212. Bhiwani, Haryana  ----->  98.87215875178835 KM traveled.
+213. Bharatpur, Rajasthan  ----->  176.27543700235674 KM traveled.
+214. Alyangula, Northern Territory  ----->  131.5265814842592 KM traveled.
+215. Aysha, Ethiopia  ----->  173.48193239915005 KM traveled.
+216. Bignona, Senegal  ----->  86.0732246005336 KM traveled.
+217. Blytheville, Arkansas  ----->  164.80003218242837 KM traveled.
+218. Bhanjanagar, Orissa  ----->  32.55876331688165 KM traveled.
+219. Beverly Hills, LOS ANGELES  ----->  77.77925020189434 KM traveled.
+220. Bhairawa, Nepal  ----->  113.11391604708096 KM traveled.
+221. Big Piney, Wyoming  ----->  131.74897825336572 KM traveled.
+222. Bettendorf, Iowa  ----->  101.64937627974844 KM traveled.
+223. Bardiyah, Libya  ----->  128.2545972298665 KM traveled.
+224. Bardhaman, West Bengal  ----->  2.2340214431128587 KM traveled.
+225. Bihac, Bosnia-Herzegovina  ----->  289.5871080099135 KM traveled.
+226. Baggs, Wyoming  ----->  248.80660954328445 KM traveled.
+227. Bhandara, Maharashtra  ----->  88.39342319409408 KM traveled.
+228. Bagasra, Gujarat  ----->  397.2728333697427 KM traveled.
+229. As Sidr, Libya  ----->  112.24674382108017 KM traveled.
+230. Banhatti, Karnataka  ----->  223.5620486415596 KM traveled.
+231. Bahir Dar, Ethiopia  ----->  177.50190442642523 KM traveled.
+232. Bioko, Nigeria  ----->  252.51794266253546 KM traveled.
+233. Ar Rayyan, Qatar  ----->  352.3881828518019 KM traveled.
+234. Bijapur, Karnataka  ----->  131.40833110162296 KM traveled.
+235. Anaconda, Montana  ----->  133.44798734753337 KM traveled.
+236. Alice, Texas  ----->  99.9920096066747 KM traveled.
+237. Badagara, Kerala  ----->  197.90975019534295 KM traveled.
+238. Antsla, Estonia  ----->  134.31842239289887 KM traveled.
+239. Artigas, Uruguay  ----->  207.11271006454766 KM traveled.
+240. Boca Raton, Florida  ----->  18.694294179344894 KM traveled.
+241. Allada, Benin  ----->  142.83507623241667 KM traveled.
+242. Astara, Azerbaijan  ----->  162.19556463153327 KM traveled.
+243. Ajaccio, France  ----->  112.15919841243407 KM traveled.
+244. Abu Kamal, Syria  ----->  185.9268332631793 KM traveled.
+245. Balkhash, Kazakstan  ----->  65.2935435471149 KM traveled.
+246. Amherst, Massachusetts  ----->  172.2957082383802 KM traveled.
+247. Anadyr, Russia  ----->  177.9456081919215 KM traveled.
+248. Biharamulo, Tanzania  ----->  273.37089814325816 KM traveled.
+249. Beaver Creek, Yukon Territory  ----->  107.0917640143161 KM traveled.
+250. Belem, Brazil  ----->  50.430532783502954 KM traveled.
+251. Bar Harbor, Maine  ----->  86.94148508693685 KM traveled.
+252. Agra, Uttar Pradesh  ----->  48.81493023528692 KM traveled.
+253. Ajdabiya, Libya  ----->  101.64485193720736 KM traveled.
+254. Bura, Kenya  ----->  155.4790731996594 KM traveled.
+255. Amarkantak, Madhya Pradesh  ----->  58.385516815043445 KM traveled.
+256. Biankouma, Ivory Coast  ----->  65.40859437868899 KM traveled.
+257. Amasya, Turkey  ----->  19.04968487169188 KM traveled.
+258. Ali Sabieh, Djibouti  ----->  73.93522292958407 KM traveled.
+259. Ba, Fiji  ----->  118.35608510386683 KM traveled.
+260. Ati, Chad  ----->  47.51953902886683 KM traveled.
+261. Agboville, Ivory Coast  ----->  84.2736913911623 KM traveled.
+262. Altus, Oklahoma  ----->  139.327330102122 KM traveled.
+263. Bacarra, Philippines  ----->  260.32758943254095 KM traveled.
+264. Aniak, Alaska  ----->  342.0935894233136 KM traveled.
+265. Baghdad, Iraq  ----->  131.05060530583648 KM traveled.
+266. Abilene, Texas  ----->  530.4228779332602 KM traveled.
+267. Amman, Jordan  ----->  171.9889961515259 KM traveled.
+268. Altyagach, Azerbaijan  ----->  160.33374001196162 KM traveled.
+269. Bhaktapur, Nepal  ----->  206.89761833093766 KM traveled.
+270. Big Spring, Texas  ----->  334.9979096578246 KM traveled.
+271. Big Rapids, Michigan  ----->  0.0 KM traveled.
+272. Anaheim, California  ----->  179.67745987060505 KM traveled.
+273. Bar, Yugoslavia  ----->  184.52003324259647 KM traveled.
+274. Bandar-e Abbas, Iran  ----->  138.88465405038048 KM traveled.
+275. Bettendorf, Luxembourg  ----->  112.21176102063669 KM traveled.
+276. Adelaide, South Australia  ----->  138.68428435099716 KM traveled.
+277. Baker, Montana  ----->  173.3626463528861 KM traveled.
+278. Banska Bystrica, Slovakia  ----->  296.9133559421738 KM traveled.
+279. Ambasa, Tripura  ----->  206.15254381288875 KM traveled.
+280. Ashgabat, Turkmenistan  ----->  343.59575592241566 KM traveled.
+281. Baripada, Orissa  ----->  365.00192037790293 KM traveled.
+282. Ara, Bihar  ----->  385.7171181780716 KM traveled.
+283. Azogues, Ecuador  ----->  254.8654983327653 KM traveled.
+284. Anah, Iraq  ----->  199.9763641969804 KM traveled.
+285. Balarampur, West Bengal  ----->  183.4411239734492 KM traveled.
+286. Barcelona, Venezuela  ----->  9.063941494917959 KM traveled.
+287. Agartala, Tripura  ----->  189.85201268276535 KM traveled.
+288. Akhaltsikhe, Georgia (Asia)  ----->  149.41095605490898 KM traveled.
+289. Baniyas, Syria  ----->  217.00625662995057 KM traveled.
+290. Alexandria, Romania  ----->  157.0638606140361 KM traveled.
+291. Ancona, Italy  ----->  124.43515611989106 KM traveled.
+292. Bijauri, Nepal  ----->  210.61159936610997 KM traveled.
+293. Barahona, Dominican Republic  ----->  104.17508155527206 KM traveled.
+294. Brady, Texas  ----->  311.87080729163506 KM traveled.
+295. Bhubaneswar, India  ----->  132.33474809272596 KM traveled.
+296. Bihar Sharif, Bihar  ----->  127.56772124241122 KM traveled.
+297. Batticaloa, Sri Lanka  ----->  173.25515979972138 KM traveled.
+298. Ames, Iowa  ----->  325.1899042440011 KM traveled.
+299. Avuavu, Solomon Islands  ----->  246.8683104021412 KM traveled.
+300. Bijnor, Uttar Pradesh  ----->  170.21400838217818 KM traveled.
+301. Burlington, Iowa  ----->  403.62715680850647 KM traveled.
+302. Barrington, Rhode Island  ----->  233.77403090673408 KM traveled.
+303. Bijeljina, Bosnia-Herzegovina  ----->  147.28544757312213 KM traveled.
+304. Ainsworth, Nebraska  ----->  231.68473520507607 KM traveled.
+305. Alma, Wisconsin  ----->  209.27960460646693 KM traveled.
+306. Baris, Egypt  ----->  563.2924783043043 KM traveled.
+307. Amasiya, Armenia  ----->  541.8570506630616 KM traveled.
+308. Afula, Israel  ----->  181.7924007426225 KM traveled.
+309. Balikpapan, Indonesia  ----->  459.3831837867449 KM traveled.
+310. Bethany, Missouri  ----->  158.8545360012758 KM traveled.
+311. Baqubah, Iraq  ----->  262.4347813285092 KM traveled.
+312. Auburn, Washington  ----->  103.32712444687328 KM traveled.
+313. Banyo, Cameroon  ----->  464.322807072352 KM traveled.
+314. Bhandari, Nagaland  ----->  238.42665645647529 KM traveled.
+315. Bettembourg, Luxembourg  ----->  361.4785214279893 KM traveled.
+316. Achabal, Kashmir  ----->  359.26362998457836 KM traveled.
+317. Bijni, Assam  ----->  96.1053912894277 KM traveled.
+318. Bhimavaram, Andhra Pradesh  ----->  209.16970958292484 KM traveled.
+319. Adjud, Romania  ----->  114.97291212329527 KM traveled.
+320. Barentsburg, Norway  ----->  125.39223133491602 KM traveled.
+321. Bhadrak, Orissa  ----->  352.0514229739816 KM traveled.
+322. Bhagalpur, Bihar  ----->  85.9444953659761 KM traveled.
+323. Barrow Creek, Northern Territory  ----->  179.82174247202022 KM traveled.
+324. Bolnisi, Georgia (Asia)  ----->  98.51619138371508 KM traveled.
+325. Aguascalientes, Mexico  ----->  135.78356176370974 KM traveled.
+326. Bhalki, Karnataka  ----->  208.17211696612415 KM traveled.
+327. Betou, Congo (Brazzaville)  ----->  498.19257745638185 KM traveled.
+328. Apolo, Bolivia  ----->  220.35388724303334 KM traveled.
+329. Balaghat, Madhya Pradesh  ----->  463.85837883861205 KM traveled.
+330. Babol, Iran  ----->  815.332186313847 KM traveled.
+331. Bath, New York  ----->  612.457448938191 KM traveled.
+332. Basilan, Philippines  ----->  383.02811699878623 KM traveled.
+333. Alwaye, Kerala  ----->  230.57619931478519 KM traveled.
+334. Borden, Prince Edward Island  ----->  214.57277876220184 KM traveled.
+335. Antsirabe, Madagascar  ----->  243.06189459530185 KM traveled.
+336. Bucyrus, Ohio  ----->  809.7126206315614 KM traveled.
+337. Alleppey, Kerala  ----->  188.86009649545713 KM traveled.
+338. Ashland, Oregon  ----->  490.2361398106131 KM traveled.
+339. Asyut, Egypt  ----->  274.61399397020375 KM traveled.
+340. Angola, Indiana  ----->  398.993907037069 KM traveled.
+341. Bosanski Petrovac, Bosnia-Herzegovina  ----->  583.0489155390298 KM traveled.
+342. Accra, Ghana  ----->  360.66721001337726 KM traveled.
+343. Baharagora, Bihar  ----->  1094.1738677104001 KM traveled.
+344. Berd, Armenia  ----->  265.1686849988386 KM traveled.
+345. Bhind, Madhya Pradesh  ----->  217.7854050109051 KM traveled.
+346. Bakersfield, California  ----->  401.06140584460263 KM traveled.
+347. Bonao, Dominican Republic  ----->  372.67343599935174 KM traveled.
+348. Bradford, United Kingdom  ----->  441.4415873036186 KM traveled.
+349. Brownsville, Texas  ----->  112.51958380057879 KM traveled.
+350. Bhachau, Gujarat  ----->  194.8029337192319 KM traveled.
+351. Alor Setar, Malaysia  ----->  269.6905725574455 KM traveled.
+352. Bareilly, Uttar Pradesh  ----->  231.83759122455578 KM traveled.
+353. Alicante, Spain  ----->  408.90122327669224 KM traveled.
+354. Angoram, Papua New Guinea  ----->  760.882755236179 KM traveled.
+355. Bhavnagar, Gujarat  ----->  596.6302472662378 KM traveled.
+356. Bhinmal, Rajasthan  ----->  213.90391026892033 KM traveled.
+357. Bhatpara, West Bengal  ----->  631.3038854742597 KM traveled.
+358. Bukoba, Tanzania  ----->  493.7867106752056 KM traveled.
+359. Bernalillo, New Mexico  ----->  217.89402994588266 KM traveled.
+360. Boma, Congo (Kinshasa)  ----->  366.17053359515614 KM traveled.
+361. Bhilwara, Rajasthan  ----->  440.7761123108557 KM traveled.
+362. Bareeda, Somalia  ----->  50.47329440417181 KM traveled.
+363. Bogale, Burma  ----->  356.1972106673484 KM traveled.
+364. Alindao, Central African Republic  ----->  486.23088182739195 KM traveled.
+365. Balzers, Liechtenstein  ----->  32.90060977766846 KM traveled.
+366. Bandeli, Comoros  ----->  512.395385429851 KM traveled.
+367. Bay City, Michigan  ----->  151.20372271431913 KM traveled.
+368. Almaty, Kazakstan  ----->  443.4443487824712 KM traveled.
+369. Baltimore, Maryland  ----->  181.01214414926312 KM traveled.
+370. Butha-Buthe, Lesotho  ----->  344.05060721853573 KM traveled.
+371. Bauska, Latvia  ----->  347.27949022199533 KM traveled.
+372. Artik, Armenia  ----->  88.47177369590075 KM traveled.
+373. Buffalo, Wyoming  ----->  144.31800666848244 KM traveled.
+374. Buffalo, South Dakota  ----->  1.9651537699595192 KM traveled.
+375. Bicheno, Tasmania  ----->  319.1965728504965 KM traveled.
+376. Bunbury, Western Australia  ----->  318.8387740017815 KM traveled.
+377. Banjul, Gambia  ----->  487.80139769086367 KM traveled.
+378. Cao Bang, Vietnam  ----->  384.419170027777 KM traveled.
+379. Canton, South Dakota  ----->  9.5367431640625E-5 KM traveled.
+380. Andros, Greece  ----->  822.4716928408776 KM traveled.
+381. Campo Grande, Brazil  ----->  547.5195994390776 KM traveled.
+382. Bamboa, Comoros  ----->  530.9094162791189 KM traveled.
+383. Beaver Falls, Pennsylvania  ----->  463.0861416506777 KM traveled.
+384. Balvi, Latvia  ----->  915.0329145717687 KM traveled.
+385. Calvi, France  ----->  1059.9523930326582 KM traveled.
+386. Athol, Massachusetts  ----->  282.66211552372573 KM traveled.
+387. Barro, Guinea-Bissau  ----->  715.8719300746559 KM traveled.
+388. Andselv, Norway  ----->  802.9923439277717 KM traveled.
+389. Anuradhapura, Sri Lanka  ----->  457.4146581649038 KM traveled.
+390. Bukit Panjang, Singapore  ----->  482.2946675981548 KM traveled.
+391. Butare, Rwanda  ----->  1421.7584336002367 KM traveled.
+392. Cadiz, Spain  ----->  355.4564661287954 KM traveled.
+393. Cebu City, Philippines  ----->  219.45428115066417 KM traveled.
+394. Cacine, Guinea-Bissau  ----->  98.03366082614598 KM traveled.
+395. Calais, France  ----->  189.4659094601142 KM traveled.
+396. Bykhov, Belarus  ----->  440.22827282436293 KM traveled.
+397. Borneo, Brunei  ----->  576.1069191131916 KM traveled.
+398. Bobruysk, Belarus  ----->  420.9512100474803 KM traveled.
+399. Bulembu, Swaziland  ----->  276.4390441326259 KM traveled.
+400. Beckley, West Virginia  ----->  367.0311478203764 KM traveled.
+401. Alaverdi, Armenia  ----->  206.17382898247465 KM traveled.
+402. Bordeaux, France  ----->  702.5655270021359 KM traveled.
+403. Banda Aceh, Indonesia  ----->  541.5940817592844 KM traveled.
+404. Bilma, Niger  ----->  203.30024994446788 KM traveled.
+405. Antsiranana, Madagascar  ----->  527.7386913552831 KM traveled.
+406. Baardheere, Somalia  ----->  587.608511781754 KM traveled.
+407. Bandung, Indonesia  ----->  364.1467111253386 KM traveled.
+408. Bafilo, Togo  ----->  154.17198138880076 KM traveled.
+409. Bayreuth, Germany  ----->  484.42578800209014 KM traveled.
+410. Bangkok, Thailand  ----->  259.00467803113594 KM traveled.
+411. Abeokuta, Nigeria  ----->  864.3278902077751 KM traveled.
+412. Bamako, Mali  ----->  146.70708940194513 KM traveled.
+413. Artvin, Turkey  ----->  454.8717926324346 KM traveled.
+414. Bronderslev, Denmark  ----->  266.33132731680587 KM traveled.
+415. Barsi, Maharashtra  ----->  834.6348893307502 KM traveled.
+416. Basti, Uttar Pradesh  ----->  563.9866372589859 KM traveled.
+417. Ahuachapan, El Salvador  ----->  422.1643931364855 KM traveled.
+418. Aiken, South Carolina  ----->  445.9531426746567 KM traveled.
+419. Alexandria, Virginia  ----->  490.05475880406726 KM traveled.
+420. Bouake, Ivory Coast  ----->  501.46491206844723 KM traveled.
+421. Aluksne, Latvia  ----->  525.8845219047103 KM traveled.
+422. Bopolu, Liberia  ----->  357.5021730976727 KM traveled.
+423. Bassein, Burma  ----->  366.93219184818196 KM traveled.
+424. Bemidji, Minnesota  ----->  390.0362642243577 KM traveled.
+425. Albina, Suriname  ----->  320.99645884091416 KM traveled.
+426. Bitam, Gabon  ----->  181.6040009864163 KM traveled.
+427. Belmullet, Ireland  ----->  146.85187788765114 KM traveled.
+428. Alberton, Prince Edward Island  ----->  92.81858057856186 KM traveled.
+429. Batchelor, Northern Territory  ----->  455.16874692218335 KM traveled.
+430. Bourem, Mali  ----->  182.30844448743363 KM traveled.
+431. Bremerhaven, Germany  ----->  334.02649291727664 KM traveled.
+432. Bridgeton, New Jersey  ----->  158.81146869110668 KM traveled.
+433. Brussels, Belgium  ----->  183.67310353172 KM traveled.
+434. Camopi, French Guiana  ----->  69.51539538411023 KM traveled.
+435. Canas, Costa Rica  ----->  135.74557276847105 KM traveled.
+436. Beawar, Rajasthan  ----->  411.9404777766845 KM traveled.
+437. Bhusawal, Maharashtra  ----->  121.24426062453047 KM traveled.
+438. Arkhangelsk, Russia  ----->  291.93317581900067 KM traveled.
+439. Bridgewater, Tasmania  ----->  334.66475975519023 KM traveled.
+440. Bolung, Arunachal Pradesh  ----->  378.39366768887123 KM traveled.
+441. Arad, Romania  ----->  591.3524338777324 KM traveled.
+442. Antwerp, Belgium  ----->  507.7593976567944 KM traveled.
+443. Awka, Nigeria  ----->  640.0325670162858 KM traveled.
+444. Cahul, Moldova  ----->  399.8227409481956 KM traveled.
+445. Ang Mo Kio, Singapore  ----->  583.3009815348288 KM traveled.
+446. Berlin, Germany  ----->  351.5578658787094 KM traveled.
+447. Bilaspur, Himachal Pradesh  ----->  1043.859142080755 KM traveled.
+448. Balangir, Orissa  ----->  783.3137593077241 KM traveled.
+449. Babahoyo, Ecuador  ----->  996.3959322154814 KM traveled.
+450. Brod, Macedonia  ----->  376.64651383256705 KM traveled.
+451. Afton, Wyoming  ----->  893.5477317488276 KM traveled.
+452. Balaka, Malawi  ----->  200.96952129108377 KM traveled.
+453. Brockton, Massachusetts  ----->  278.4509691421457 KM traveled.
+454. Adana, Turkey  ----->  404.6655072121292 KM traveled.
+455. Barra, Gambia  ----->  1282.4953833047814 KM traveled.
+456. As Salt, Jordan  ----->  943.1054001653719 KM traveled.
+457. Boundji, Congo (Brazzaville)  ----->  1473.3505259066567 KM traveled.
+458. Almeria, Spain  ----->  488.66087907505226 KM traveled.
+459. Bulgan, Mongolia  ----->  1266.542440311503 KM traveled.
+460. Black River, Jamaica  ----->  464.22488255206355 KM traveled.
+461. Bahia Negra, Paraguay  ----->  171.26216643281512 KM traveled.
+462. Bayanchandman, Mongolia  ----->  263.6020609759686 KM traveled.
+463. Bridgeport, Connecticut  ----->  66.40755992020169 KM traveled.
+464. Burley, Idaho  ----->  199.90197353100422 KM traveled.
+465. Balkhan, Turkmenistan  ----->  602.1642919125148 KM traveled.
+466. Bastrop, Louisiana  ----->  930.3605251293498 KM traveled.
+467. Antsohihy, Madagascar  ----->  160.69283997379554 KM traveled.
+468. Anandapur, Orissa  ----->  565.7697242765888 KM traveled.
+469. Babina, Uttar Pradesh  ----->  1125.3778229639495 KM traveled.
+470. Ambasamudram, Tamil Nadu  ----->  1240.4549992142518 KM traveled.
+471. Bioko, Cameroon  ----->  2002.8352517116741 KM traveled.
+472. Bakuriani, Georgia (Asia)  ----->  2394.351654596774 KM traveled.
+473. Bath, Maine  ----->  2025.0408551321389 KM traveled.
+474. Boleslawiec, Poland  ----->  870.0720267500609 KM traveled.
+475. Baruipur, West Bengal  ----->  328.80155828577284 KM traveled.
+476. Bolivar, Tennessee  ----->  259.88638483079467 KM traveled.
+477. Bellingham, Washington  ----->  640.9301559595701 KM traveled.
+478. Barharwa, Bihar  ----->  381.99861581466274 KM traveled.
+479. Betnoti, Orissa  ----->  915.9559717273711 KM traveled.
+480. Bohicon, Benin  ----->  377.53009786581276 KM traveled.
+481. Along, Arunachal Pradesh  ----->  1358.5807857422408 KM traveled.
+482. Bodhan, Andhra Pradesh  ----->  1484.0801755022167 KM traveled.
+483. Amiens, France  ----->  279.53659610155734 KM traveled.
+484. Bulan, Philippines  ----->  1140.826199788699 KM traveled.
+485. Carnarvon, Western Australia  ----->  1029.4090107648722 KM traveled.
+486. Ceduna, South Australia  ----->  2123.0510287750235 KM traveled.
+487. Casterton, Victoria  ----->  934.2811623207091 KM traveled.
+488. Castlemaine, Victoria  ----->  256.87346839687984 KM traveled.
+489. Casino, New South Wales  ----->  1233.1399607736457 KM traveled.
+490. Campbellton, New Brunswick  ----->  703.448090997384 KM traveled.
+491. Az Zallaq, Bahrain  ----->  3060.7955735570067 KM traveled.
+492. Bertoua, Cameroon  ----->  1800.3988060119675 KM traveled.
+493. Beach, North Dakota  ----->  2837.836726024451 KM traveled.
+494. Carmel, California  ----->  2177.7782552168014 KM traveled.
+495. Al Wafra, Kuwait  ----->  670.6774983848528 KM traveled.
+496. Aradah, United Arab Emirates  ----->  650.0170774981437 KM traveled.
+497. Cascade, Idaho  ----->  315.35766914635064 KM traveled.
+498. An Nabatiyah at Tahta, Lebanon  ----->  1444.8113309258304 KM traveled.
+499. Baiti, Nauru  ----->  755.2865586220889 KM traveled.
+500. Ana, Sao Tome and Principe  ----->  1387.1961464619378 KM traveled.
+501. Bonavista, Newfoundland  ----->  246.4725916063996 KM traveled.
+502. Calcutta, West Bengal  ----->  370.66867979936677 KM traveled.
+503. Bayhan al Qisah, Yemen  ----->  340.2913318896093 KM traveled.
+504. Biddeford, Maine  ----->  781.6505048264476 KM traveled.
+505. Buenos Aires, Argentina  ----->  380.18227024811694 KM traveled.
+506. Bayan-Ondor, Mongolia  ----->  307.8479664631914 KM traveled.
+507. Budapest, Hungary  ----->  518.0458862021945 KM traveled.
+508. Beli, Guinea-Bissau  ----->  291.8609496270661 KM traveled.
+509. Bowman, North Dakota  ----->  507.25247597745494 KM traveled.
+510. Cancun, Mexico  ----->  115.96098340132454 KM traveled.
+511. Burnpur, West Bengal  ----->  71.801354253549 KM traveled.
+512. An Nafidah, Tunisia  ----->  194.92932510091043 KM traveled.
+513. Abidjan, Ivory Coast  ----->  1028.3817715374653 KM traveled.
+514. Aberdeen, Maryland  ----->  145.18965497054964 KM traveled.
+515. Abilene, Kansas  ----->  243.67919798102142 KM traveled.
+516. Allendale, South Carolina  ----->  330.93263186825214 KM traveled.
+517. Carson, North Dakota  ----->  245.20413670062732 KM traveled.
+518. Blackall, Queensland  ----->  501.0502777058504 KM traveled.
+519. Belmont, Grenada  ----->  445.01335225935037 KM traveled.
+520. Ambikapur, Madhya Pradesh  ----->  149.21004688770384 KM traveled.
+521. Berri, South Australia  ----->  396.3211105534018 KM traveled.
+522. Bludenz, Austria  ----->  162.87210604319165 KM traveled.
+523. Ash Shuwaykh, Kuwait  ----->  359.5275482872028 KM traveled.
+524. Aguadilla, Puerto Rico  ----->  191.17922426463568 KM traveled.
+525. Bushehr, Iran  ----->  109.2377907621602 KM traveled.
+526. Canberra, Victoria  ----->  216.17292543961292 KM traveled.
+527. Canaries, St. Lucia  ----->  189.1242682178586 KM traveled.
+528. Athens, Tennessee  ----->  143.11908815248725 KM traveled.
+529. Bobo Dioulasso, Burkina Faso  ----->  232.54916510189946 KM traveled.
+530. Bluefields, Nicaragua  ----->  187.08315034265263 KM traveled.
+531. Atbarah, Sudan  ----->  161.47046168198904 KM traveled.
+532. At Turayf, Saudi Arabia  ----->  124.37254139445501 KM traveled.
+533. Bair, Jordan  ----->  138.00566322987035 KM traveled.
+534. Anibare, Nauru  ----->  226.22412080731547 KM traveled.
+535. Blackmans, Barbados  ----->  188.62200684362432 KM traveled.
+536. Bid, Maharashtra  ----->  238.12780581080082 KM traveled.
+537. Baracoa, Cuba  ----->  462.4424386084139 KM traveled.
+538. Blida, Algeria  ----->  160.79955588899756 KM traveled.
+539. Belefuanai, Liberia  ----->  191.39691645361376 KM traveled.
+540. Bodo, Norway  ----->  234.10619931289105 KM traveled.
+541. Bodaybo, Russia  ----->  9.5367431640625E-5 KM traveled.
+542. Bilaspur, Madhya Pradesh  ----->  216.55956425303052 KM traveled.
+543. Basel, Switzerland  ----->  347.64962091492544 KM traveled.
+544. Arthur's Town, Bahamas  ----->  484.92861959804986 KM traveled.
+545. Beaver Dam, Wisconsin  ----->  399.26133757376886 KM traveled.
+546. Beaumont, Texas  ----->  0.0 KM traveled.
+547. Bristol, Connecticut  ----->  363.0284844148123 KM traveled.
+548. Canton, Ohio  ----->  194.25415293224916 KM traveled.
+549. Cameron, Arizona  ----->  342.79416855056553 KM traveled.
+550. Altay, Mongolia  ----->  656.1743456336245 KM traveled.
+551. Ahwa, Gujarat  ----->  542.3187299880776 KM traveled.
+552. Bayaha, Bihar  ----->  317.0818454638959 KM traveled.
+553. Athienou, Cyprus  ----->  63.519800218718345 KM traveled.
+554. Athieme, Benin  ----->  110.45435399372062 KM traveled.
+555. Aswan, Egypt  ----->  67.92011441738876 KM traveled.
+556. Arica, Chile  ----->  377.1307455242339 KM traveled.
+557. Alkmaar, Netherlands  ----->  730.2667664916379 KM traveled.
+558. Bainbridge, Georgia (U.S.)  ----->  146.48749309810265 KM traveled.
+559. Albion, Pennsylvania  ----->  250.06773001054046 KM traveled.
+560. Bloomington, Illinois  ----->  429.3287088769633 KM traveled.
+561. Ambato, Ecuador  ----->  424.1030419844842 KM traveled.
+562. Aizpute, Latvia  ----->  166.43782744758963 KM traveled.
+563. Badanah, Saudi Arabia  ----->  544.1690296639923 KM traveled.
+564. Berg, Luxembourg  ----->  404.0144734288936 KM traveled.
+565. Boutilimit, Mauritania  ----->  488.2922728483371 KM traveled.
+566. Bazarchay, Armenia  ----->  329.6855971757948 KM traveled.
+567. Brookings, South Dakota  ----->  607.3787807841254 KM traveled.
+568. Barranquilla, Colombia  ----->  431.46519102857496 KM traveled.
+569. Aleksinac, Yugoslavia  ----->  432.3085270158713 KM traveled.
+570. Belinga, Gabon  ----->  273.06301260600094 KM traveled.
+571. Abuja, Nigeria  ----->  88.92173123696422 KM traveled.
+572. Benesov, Czech Republic  ----->  208.2781709109967 KM traveled.
+573. Allanmyo, Burma  ----->  518.397059282943 KM traveled.
+574. As Sulayyil, Saudi Arabia  ----->  745.705822292152 KM traveled.
+575. Anamur, Turkey  ----->  558.5744042587319 KM traveled.
+576. Bern, Switzerland  ----->  234.24992496653968 KM traveled.
+577. Athens, Greece  ----->  467.42002339639345 KM traveled.
+578. Am Timan, Chad  ----->  876.5770321007026 KM traveled.
+579. Carlinville, Illinois  ----->  86.26101458951518 KM traveled.
+580. Caruthersville, Missouri  ----->  56.4292882061558 KM traveled.
+581. Anse a Galets, Haiti  ----->  102.4210732954218 KM traveled.
+582. Arkalyk, Kazakstan  ----->  144.84533542538387 KM traveled.
+583. Broken Arrow, Oklahoma  ----->  201.73252289710834 KM traveled.
+584. Belle Fourche, South Dakota  ----->  185.38832381418518 KM traveled.
+585. Centralia, Illinois  ----->  243.26176738089052 KM traveled.
+586. Basseterre, St. Kitts and Nevis  ----->  252.83691143891943 KM traveled.
+587. Burgdorf, Switzerland  ----->  238.8234901606772 KM traveled.
+588. Cedar Rapids, Iowa  ----->  51.1935023685397 KM traveled.
+589. Cedar Falls, Iowa  ----->  89.38344573624137 KM traveled.
+590. Alayh, Lebanon  ----->  96.63085439611643 KM traveled.
+591. Bongaigaon, Assam  ----->  45.79593578950995 KM traveled.
+592. Bayburt, Turkey  ----->  86.01936275586397 KM traveled.
+593. Aleppo, Syria  ----->  148.67593259324002 KM traveled.
+594. Belize City, Belize  ----->  77.0688998824564 KM traveled.
+595. Centerville, Iowa  ----->  268.8426583632476 KM traveled.
+596. Carroll, Iowa  ----->  125.61836615379084 KM traveled.
+597. Brno, Czech Republic  ----->  84.81061157080988 KM traveled.
+598. Alexandra, New Zealand  ----->  169.03037822756858 KM traveled.
+599. Central City, Nebraska  ----->  323.76734543893224 KM traveled.
+600. Carrington, North Dakota  ----->  141.76545273239563 KM traveled.
+601. Bender, Moldova  ----->  205.43932607127255 KM traveled.
+602. Burco, Somalia  ----->  60.52253418524166 KM traveled.
+603. Brewarrina, New South Wales  ----->  82.1669972255301 KM traveled.
+604. Arlit, Niger  ----->  119.33045015015458 KM traveled.
+605. Cannes, France  ----->  137.779181486962 KM traveled.
+606. Casper, Wyoming  ----->  247.23075241491256 KM traveled.
+607. Bouafle, Ivory Coast  ----->  283.86982822087924 KM traveled.
+608. Bekdash, Turkmenistan  ----->  271.5650986069498 KM traveled.
+609. Ashland, Wisconsin  ----->  100.6006114406192 KM traveled.
+610. Artesia, New Mexico  ----->  212.5746992981075 KM traveled.
+611. Bristol, Rhode Island  ----->  149.29289752363746 KM traveled.
+612. Aguada, Goa  ----->  244.7018660336045 KM traveled.
+613. Center, North Dakota  ----->  360.7370065348119 KM traveled.
+614. Brodnica, Poland  ----->  457.31877867196556 KM traveled.
+615. Braganca, Portugal  ----->  294.9511920691945 KM traveled.
+616. Birmingham, United Kingdom  ----->  153.50522029239744 KM traveled.
+617. Bor, Yugoslavia  ----->  47.02414965428676 KM traveled.
+618. Bossembele, Central African Republic  ----->  576.8796819447755 KM traveled.
+619. Carlsbad, New Mexico  ----->  686.8937561136066 KM traveled.
+620. Carrizozo, New Mexico  ----->  360.98283967887414 KM traveled.
+621. Bicholim, Goa  ----->  418.1032171427687 KM traveled.
+622. Alton, Illinois  ----->  283.3494489420534 KM traveled.
+623. Aralsk, Kazakstan  ----->  330.9236844865157 KM traveled.
+624. Bruges, Belgium  ----->  160.75745635683452 KM traveled.
+625. Benguela, Angola  ----->  460.1990568124248 KM traveled.
+626. Aihui, China  ----->  88.05025265592613 KM traveled.
+627. Arhus, Denmark  ----->  125.60253350275501 KM traveled.
+628. Cabimas, Venezuela  ----->  577.5256492335733 KM traveled.
+629. Batangafo, Central African Republic  ----->  162.83521122550493 KM traveled.
+630. Belleville, Illinois  ----->  189.00933785518686 KM traveled.
+631. Blato, Croatia  ----->  44.820179379620015 KM traveled.
+632. Carrollton, Georgia (U.S.)  ----->  385.05910346962503 KM traveled.
+633. Batangas, Philippines  ----->  94.96151964762572 KM traveled.
+634. Ambatolampy, Madagascar  ----->  110.96111120178587 KM traveled.
+635. Battle Creek, Michigan  ----->  142.8058109611455 KM traveled.
+636. Beatty, Nevada  ----->  252.99989798720398 KM traveled.
+637. Alat, Azerbaijan  ----->  89.09822259511773 KM traveled.
+638. Canterbury, United Kingdom  ----->  156.24216794301535 KM traveled.
+639. Baton Rouge, Louisiana  ----->  106.09904122224528 KM traveled.
+640. Ash Shahaniyah, Qatar  ----->  264.3710082855298 KM traveled.
+641. Ash Shatrah, Iraq  ----->  197.88849118261712 KM traveled.
+642. Cartago, Costa Rica  ----->  121.0873688004515 KM traveled.
+643. Carrabelle, Florida  ----->  123.8721652069088 KM traveled.
+644. Blonduos, Iceland  ----->  197.39446613469565 KM traveled.
+645. Atakpame, Togo  ----->  229.48554888825967 KM traveled.
+646. Agsu, Azerbaijan  ----->  305.2440118311717 KM traveled.
+647. Aklera, Rajasthan  ----->  130.50337311647263 KM traveled.
+648. Bright, Victoria  ----->  161.7412401885315 KM traveled.
+649. Cacheu, Guinea-Bissau  ----->  328.7033763620284 KM traveled.
+650. Centreville, Alabama  ----->  362.5521274220229 KM traveled.
+651. Biaora, Madhya Pradesh  ----->  165.92438757070047 KM traveled.
+652. Arlington, Oregon  ----->  302.60017544677424 KM traveled.
+653. Ayios Seryios, Cyprus  ----->  360.0298512308874 KM traveled.
+654. Camacupa, Angola  ----->  99.10785099696125 KM traveled.
+655. Basse Santa Su, Gambia  ----->  108.8608479059908 KM traveled.
+656. Cartagena, Colombia  ----->  252.1553919532023 KM traveled.
+657. Cape May, New Jersey  ----->  55.85794481949827 KM traveled.
+658. Apoera, Suriname  ----->  281.0239558994361 KM traveled.
+659. Barisal, Bangladesh  ----->  133.53697269351028 KM traveled.
+660. Central Falls, Rhode Island  ----->  152.48522303073065 KM traveled.
+661. Borujerd, Iran  ----->  28.54732551054282 KM traveled.
+662. Bendern, Liechtenstein  ----->  223.57860299999396 KM traveled.
+663. Baranovichi, Belarus  ----->  231.43459328591908 KM traveled.
+664. Brewster, Washington  ----->  35.528979430019206 KM traveled.
+665. Bileca, Bosnia-Herzegovina  ----->  111.07610176850453 KM traveled.
+666. Annapolis Royal, Nova Scotia  ----->  128.26055771562952 KM traveled.
+667. Broken Hill, Australia  ----->  97.64143394732163 KM traveled.
+668. Bryan, Texas  ----->  67.64219098392704 KM traveled.
+669. Broken Bow, Nebraska  ----->  159.88790299914007 KM traveled.
+670. Banjarmasin, Indonesia  ----->  158.62373825794361 KM traveled.
+671. Brest, France  ----->  309.2804351456144 KM traveled.
+672. Brandon, Manitoba  ----->  117.79811585084761 KM traveled.
+673. Can Tho, Vietnam  ----->  364.0951807166243 KM traveled.
+674. As Salihiyah, Syria  ----->  80.81005817963415 KM traveled.
+675. Boffa, Guinea  ----->  197.809221425174 KM traveled.
+676. Astrakhan, Russia  ----->  135.17005997287578 KM traveled.
+677. Bristol, Tennessee  ----->  264.7077371623669 KM traveled.
+678. Bhola, Bangladesh  ----->  97.1735950592998 KM traveled.
+679. Ath, Belgium  ----->  173.77512768043377 KM traveled.
+680. Banja Luka, Bosnia-Herzegovina  ----->  286.2896426884226 KM traveled.
+681. Cambridge, Maryland  ----->  298.3285027520457 KM traveled.
+682. Ayios Theodhoros, Cyprus  ----->  352.31628443069036 KM traveled.
+683. Brigham City, Utah  ----->  131.34488293289118 KM traveled.
+684. Cakovec, Croatia  ----->  353.4921879025545 KM traveled.
+685. Berdyansk, Ukraine  ----->  268.16768090096883 KM traveled.
+686. Cameron, Louisiana  ----->  111.20005668336373 KM traveled.
+687. Bodrum, Turkey  ----->  195.16760729855753 KM traveled.
+688. Booue, Gabon  ----->  220.77771827698612 KM traveled.
+689. Ceiba, Puerto Rico  ----->  164.73993379845425 KM traveled.
+690. Caracas, Venezuela  ----->  89.45426821073707 KM traveled.
+691. Angoche, Mozambique  ----->  88.65278065562553 KM traveled.
+692. Cadyr-Lunga, Moldova  ----->  120.0865741345483 KM traveled.
+693. Capljina, Bosnia-Herzegovina  ----->  197.64466461401085 KM traveled.
+694. Bambari, Central African Republic  ----->  159.99368278790465 KM traveled.
+695. Baragarh, Orissa  ----->  134.0052406007227 KM traveled.
+696. Bydgoszcz, Poland  ----->  166.23177799706897 KM traveled.
+697. Bend, Oregon  ----->  131.48603154274429 KM traveled.
+698. Belen, Paraguay  ----->  332.0156770674211 KM traveled.
+699. Arkansas City, Kansas  ----->  149.32131790590458 KM traveled.
+700. Canaan, Connecticut  ----->  189.243644511377 KM traveled.
+701. Allahabad, Uttar Pradesh  ----->  122.40303850333363 KM traveled.
+702. Bala Morghab, Afghanistan  ----->  194.08065555307454 KM traveled.
+703. Ash Shuaybah, Kuwait  ----->  79.70703139414816 KM traveled.
+704. Burhanpur, Madhya Pradesh  ----->  127.19395007997065 KM traveled.
+705. Alamo, Nevada  ----->  143.6769136269453 KM traveled.
+706. Anantapur, Andhra Pradesh  ----->  107.63152981974555 KM traveled.
+707. Bafoulabe, Mali  ----->  137.26222837140466 KM traveled.
+708. Bountiful, Utah  ----->  272.32508697555124 KM traveled.
+709. Bubanza, Burundi  ----->  49.20001777607622 KM traveled.
+710. Alliance, Nebraska  ----->  82.46024974660794 KM traveled.
+711. Budardalur, Iceland  ----->  138.5419439454474 KM traveled.
+712. Bruce, Barbados  ----->  165.5352630564253 KM traveled.
+713. Angren, Uzbekistan  ----->  230.28282376631196 KM traveled.
+714. Boung Long, Cambodia  ----->  111.31666298710084 KM traveled.
+715. Blanding, Utah  ----->  178.61155906877136 KM traveled.
+716. Bonasse, Trinidad and Tobago  ----->  322.9274960314592 KM traveled.
+717. Bayamon, Puerto Rico  ----->  167.98108195314154 KM traveled.
+718. Aberdeen, Hong Kong  ----->  321.45216843573814 KM traveled.
+719. Bobbili, Andhra Pradesh  ----->  247.79387997856742 KM traveled.
+720. Cagliari, Italy  ----->  235.59652195818023 KM traveled.
+721. Alice Town, Bahamas  ----->  236.3317720822207 KM traveled.
+722. Baxley, Georgia (U.S.)  ----->  112.48771843291445 KM traveled.
+723. Az Zabdani, Syria  ----->  160.93996175540406 KM traveled.
+724. Aparri, Philippines  ----->  93.7431816071941 KM traveled.
+725. Bakkagerdi, Iceland  ----->  194.65460873680865 KM traveled.
+726. Caldwell, Idaho  ----->  124.26846919562273 KM traveled.
+727. Catio, Guinea-Bissau  ----->  220.00933591612127 KM traveled.
+728. Anjengo, Kerala  ----->  177.09155927473154 KM traveled.
+729. Byaroza, Belarus  ----->  506.3428026709728 KM traveled.
+730. Basirhat, West Bengal  ----->  147.85538419699995 KM traveled.
+731. Carei, Romania  ----->  304.03726637833563 KM traveled.
+732. Arambagh, West Bengal  ----->  318.6559988557057 KM traveled.
+733. Bridgetown, Barbados  ----->  255.34845082948573 KM traveled.
+734. Arco, Idaho  ----->  247.6977893793841 KM traveled.
+735. Beja, Portugal  ----->  205.4957814317747 KM traveled.
+736. Carmelo, Uruguay  ----->  322.8638640150383 KM traveled.
+737. Brezice, Slovenia  ----->  304.0565386979847 KM traveled.
+738. Calgary, Alberta  ----->  302.62364257669856 KM traveled.
+739. Bitola, Macedonia  ----->  529.6947671131438 KM traveled.
+740. Ardabil, Iran  ----->  136.28688118708763 KM traveled.
+741. Calheta, Cape Verde  ----->  223.496784023776 KM traveled.
+742. Canaan, Trinidad and Tobago  ----->  113.21582082483353 KM traveled.
+743. Campinas, Brazil  ----->  21.13928266852289 KM traveled.
+744. Aomori, Japan  ----->  212.94355689853236 KM traveled.
+745. Carthage, Mississippi  ----->  442.8748131799152 KM traveled.
+746. Bendigo, Victoria  ----->  356.5604220901567 KM traveled.
+747. Adur, Kerala  ----->  185.42546195178863 KM traveled.
+748. Beira, Mozambique  ----->  342.04168712515457 KM traveled.
+749. Achalpur, Maharashtra  ----->  423.2913342120601 KM traveled.
+750. Benkovac, Croatia  ----->  897.9511837116208 KM traveled.
+751. Bloemfontein, South Africa  ----->  127.82665794389207 KM traveled.
+752. Cedar City, Utah  ----->  228.14166479083525 KM traveled.
+753. Cayey, Puerto Rico  ----->  99.13086999141925 KM traveled.
+754. Castillos, Uruguay  ----->  265.4643054083432 KM traveled.
+755. Castle Dale, Utah  ----->  162.37402401466915 KM traveled.
+756. Bikaner, Rajasthan  ----->  281.32992438391216 KM traveled.
+757. Cassino, Italy  ----->  314.8074783288967 KM traveled.
+758. Bombay, India  ----->  229.61661616214153 KM traveled.
+759. Bankura, West Bengal  ----->  313.24029533365547 KM traveled.
+760. Balranald, New South Wales  ----->  624.1040463784541 KM traveled.
+761. Bologna, Italy  ----->  14.124195616917248 KM traveled.
+762. Cap Roxo, Senegal  ----->  234.83397325130056 KM traveled.
+763. Bamenda, Cameroon  ----->  319.7012210871856 KM traveled.
+764. Cambridge, United Kingdom  ----->  524.3758434608724 KM traveled.
+765. Buckhannon, West Virginia  ----->  175.7103065348098 KM traveled.
+766. Ariha, Syria  ----->  79.61192681197858 KM traveled.
+767. Bluff, Utah  ----->  330.6646691947757 KM traveled.
+768. Blatec, Macedonia  ----->  401.16714517397594 KM traveled.
+769. Bissau, Guinea-Bissau  ----->  269.0665491348631 KM traveled.
+770. Alamogordo, New Mexico  ----->  774.9081036476882 KM traveled.
+771. Berbera, Somalia  ----->  487.7499464995502 KM traveled.
+772. Broome, Western Australia  ----->  136.44991379358024 KM traveled.
+773. Batie, Burkina Faso  ----->  475.29609184399027 KM traveled.
+774. Atyrau, Kazakstan  ----->  937.9788774592299 KM traveled.
+775. Camarata, Venezuela  ----->  705.0796559465106 KM traveled.
+776. Cerro de Pasco, Peru  ----->  387.0537210923525 KM traveled.
+777. Anantnag, Kashmir  ----->  352.1443207219567 KM traveled.
+778. Centre de Flacq, Mauritius  ----->  711.6711247739149 KM traveled.
+779. Bu Hasa, United Arab Emirates  ----->  416.2721015724079 KM traveled.
+780. Cambridge, Massachusetts  ----->  51.239228974656505 KM traveled.
+781. Breda, Netherlands  ----->  735.4636813140082 KM traveled.
+782. Cambridge, Jamaica  ----->  551.1671242548433 KM traveled.
+783. Beruwala, Sri Lanka  ----->  368.7846047015784 KM traveled.
+784. Bradenton, Florida  ----->  439.88781565332874 KM traveled.
+785. Binghamton, New York  ----->  655.9960975320453 KM traveled.
+786. Camenca, Moldova  ----->  706.1241514639163 KM traveled.
+787. Angmagssalik, Greenland  ----->  825.528184251097 KM traveled.
+788. Camabatela, Angola  ----->  526.8545107374174 KM traveled.
+789. Boda, Central African Republic  ----->  2237.652447096585 KM traveled.
+790. Acajutla, El Salvador  ----->  496.29169766497074 KM traveled.
+791. Bienvenue, French Guiana  ----->  830.5310123275266 KM traveled.
+792. Castelo Branco, Portugal  ----->  432.0548891218373 KM traveled.
+793. Cazombo, Angola  ----->  219.0981610494761 KM traveled.
+794. Batagay, Russia  ----->  1320.1181930363143 KM traveled.
+795. Bata, Equatorial Guinea  ----->  938.3750942983265 KM traveled.
+796. Ash Shariqah, United Arab Emirates  ----->  1384.262665326047 KM traveled.
+797. Belabo, Cameroon  ----->  1461.6518460519521 KM traveled.
+798. Asika, Orissa  ----->  353.4301178649564 KM traveled.
+799. Brava, Cape Verde  ----->  132.10152431162365 KM traveled.
+800. Calabar, Nigeria  ----->  668.1942970464885 KM traveled.
+801. Ballinrobe, Ireland  ----->  147.23764229099402 KM traveled.
+802. Camden, New Jersey  ----->  954.3199799322941 KM traveled.
+803. Biskra, Algeria  ----->  284.1368589621469 KM traveled.
+804. Burnsville, North Carolina  ----->  202.0816237798514 KM traveled.
+805. Bissora, Guinea-Bissau  ----->  366.7805348240532 KM traveled.
+806. Budareyri, Iceland  ----->  817.8295004423594 KM traveled.
+807. Ad Dur, Bahrain  ----->  742.4886657159258 KM traveled.
+808. Auburn, Maine  ----->  534.1522007325036 KM traveled.
+809. Bayt ad Din, Lebanon  ----->  698.9394064811557 KM traveled.
+810. Calais, Maine  ----->  545.6543446735767 KM traveled.
+811. Amarpur, Tripura  ----->  310.56705740990765 KM traveled.
+812. Attur, Tamil Nadu  ----->  528.9500366220062 KM traveled.
+813. Benkelman, Nebraska  ----->  231.757086926567 KM traveled.
+814. Andros Town, Bahamas  ----->  400.7650986606145 KM traveled.
+815. Bouna, Ivory Coast  ----->  665.5590129943497 KM traveled.
+816. Alma, Nebraska  ----->  429.69868375831715 KM traveled.
+817. Ahmadnagar, Maharashtra  ----->  291.1136601569465 KM traveled.
+818. Bishnupur, Manipur  ----->  388.6868807105449 KM traveled.
+819. Bermejo, Bolivia  ----->  242.98714625479784 KM traveled.
+820. Anjar, Gujarat  ----->  342.68814186311613 KM traveled.
+821. Caldwell, Ohio  ----->  35.96475002062146 KM traveled.
+822. Alta, Norway  ----->  236.60637809963805 KM traveled.
+823. Ampi Bazar, Tripura  ----->  387.5306483200354 KM traveled.
+824. Athlone, Ireland  ----->  413.1891122034727 KM traveled.
+825. Aoji, Korea  ----->  295.61038458943403 KM traveled.
+826. Bangui, Central African Republic  ----->  134.15558593597677 KM traveled.
+827. Barjala, Tripura  ----->  521.3756522514925 KM traveled.
+828. Athens, Georgia (U.S.)  ----->  275.26289326479707 KM traveled.
+829. Alipur Duar, West Bengal  ----->  459.5961223456251 KM traveled.
+830. Buchs, Switzerland  ----->  302.15041507723197 KM traveled.
+831. Bozoum, Central African Republic  ----->  124.03802451649821 KM traveled.
+832. Albany, Oregon  ----->  301.1394036356734 KM traveled.
+833. Bath, United Kingdom  ----->  189.03873821712168 KM traveled.
+834. Browns Town, Jamaica  ----->  182.95268240828693 KM traveled.
+835. Al Qusayr, Syria  ----->  333.7868423088811 KM traveled.
+836. Bay of Punta Gorda, Nicaragua  ----->  359.95231345617486 KM traveled.
+837. Cape Town, South Africa  ----->  167.9713127155209 KM traveled.
+838. Cap-Haitien, Haiti  ----->  25.15584396319056 KM traveled.
+839. Bluefield, West Virginia  ----->  624.3051495966043 KM traveled.
+840. Bathurst, New South Wales  ----->  215.70593055983616 KM traveled.
+841. Bundi, Rajasthan  ----->  727.1454124786748 KM traveled.
+842. Adilang, Uganda  ----->  478.9217090510211 KM traveled.
+843. Baden-Baden, Germany  ----->  534.6161474375303 KM traveled.
+844. Brescia, Italy  ----->  190.7931540914772 KM traveled.
+845. Basudebpur, Orissa  ----->  463.6178153146747 KM traveled.
+846. Belakon, Azerbaijan  ----->  149.02406700155183 KM traveled.
+847. Boise City, Oklahoma  ----->  418.5358649610315 KM traveled.
+848. Alice Springs, Northern Territory  ----->  178.8382224208974 KM traveled.
+849. Belene, Bulgaria  ----->  184.57152599729903 KM traveled.
+850. Anzio, Italy  ----->  350.41730022845934 KM traveled.
+851. Castellon, Spain  ----->  291.40271367036087 KM traveled.
+852. Bolgatanga, Ghana  ----->  138.83842792159732 KM traveled.
+853. Arlington, Virginia  ----->  285.6666936688214 KM traveled.
+854. Barpathar, Assam  ----->  208.47904654817378 KM traveled.
+855. Bucharest, Romania  ----->  108.00330421257453 KM traveled.
+856. Bismarck, North Dakota  ----->  237.86128041560755 KM traveled.
+857. Barreiro, Portugal  ----->  364.9286360145591 KM traveled.
+858. Cedar Grove, Antigua and Barbuda  ----->  469.9388928255182 KM traveled.
+859. Annotto Bay, Jamaica  ----->  488.40592705649897 KM traveled.
+860. Baran, Rajasthan  ----->  345.43484642363796 KM traveled.
+861. Bedford, Pennsylvania  ----->  300.86050935845475 KM traveled.
+862. Caibarien, Cuba  ----->  505.2485093528833 KM traveled.
+863. Beaconsfield, Tasmania  ----->  6.901239797192453 KM traveled.
+864. Brookline, Massachusetts  ----->  256.52939820898257 KM traveled.
+865. Bourscheid, Luxembourg  ----->  175.54447651007303 KM traveled.
+866. Bassar, Togo  ----->  480.4741502754044 KM traveled.
+867. Cabanatuan, Philippines  ----->  723.5943677721822 KM traveled.
+868. Castries, St. Lucia  ----->  340.47667586278084 KM traveled.
+869. Agrinion, Greece  ----->  449.94205830419486 KM traveled.
+870. Asmara, Eritrea  ----->  904.7746421407959 KM traveled.
+871. Bhiwandi, Maharashtra  ----->  621.5943105592928 KM traveled.
+872. Buzau, Romania  ----->  1168.1728143394341 KM traveled.
+873. Carlow, Ireland  ----->  224.38641379100343 KM traveled.
+874. Campeche, Mexico  ----->  503.77781544810426 KM traveled.
+875. Albany, Georgia (U.S.)  ----->  772.3574868605342 KM traveled.
+876. Baghlan, Afghanistan  ----->  701.9175932364959 KM traveled.
+877. Belen, New Mexico  ----->  356.920783078526 KM traveled.
+878. Carson City, Nevada  ----->  799.1694692881925 KM traveled.
+879. Bozeman, Montana  ----->  403.35093037771975 KM traveled.
+880. Bundaberg, Queensland  ----->  594.5946386159059 KM traveled.
+881. Albemarle, North Carolina  ----->  703.3980033068001 KM traveled.
+882. Bhopal, Madhya Pradesh  ----->  264.42841447240977 KM traveled.
+883. Brest, Belarus  ----->  361.34335956974235 KM traveled.
+884. Bog Walk, Jamaica  ----->  340.87200392175515 KM traveled.
+885. Bessarabka, Moldova  ----->  271.28857162659347 KM traveled.
+886. Celje, Slovenia  ----->  378.44928455061455 KM traveled.
+887. Aberdeen, South Dakota  ----->  340.99100045731996 KM traveled.
+888. Belgaum, Karnataka  ----->  418.37779952634946 KM traveled.
+889. Cardiff, United Kingdom  ----->  856.2599085250534 KM traveled.
+890. Auburn, Nebraska  ----->  649.3415046208688 KM traveled.
+891. Adutiskis, Lithuania  ----->  626.4550239400629 KM traveled.
+892. Al Wajh, Saudi Arabia  ----->  781.5073992624033 KM traveled.
+893. Algona, Iowa  ----->  1129.1038036273533 KM traveled.
+894. Atiquizaya, El Salvador  ----->  243.50723233754917 KM traveled.
+895. Batesville, Arkansas  ----->  669.4299242461025 KM traveled.
+896. Bokaro, Bihar  ----->  1040.684323254355 KM traveled.
+897. Blanchisseuse, Trinidad and Tobago  ----->  595.2438412568225 KM traveled.
+898. Bowbells, North Dakota  ----->  660.3288909573954 KM traveled.
+899. Atlanta, Georgia (U.S.)  ----->  741.9974131805185 KM traveled.
+900. Britton, South Dakota  ----->  151.59910090822117 KM traveled.
+901. Austin, Minnesota  ----->  796.5346687477065 KM traveled.
+902. Caazapa, Paraguay  ----->  347.3923670618885 KM traveled.
+903. Blue Ridge, Georgia (U.S.)  ----->  525.7780690849 KM traveled.
+904. Ambon, Indonesia  ----->  1013.3495478761192 KM traveled.
+905. Broken Hill, New South Wales  ----->  516.1535593353565 KM traveled.
+906. Broadus, Montana  ----->  485.20043595356094 KM traveled.
+907. Britstown, South Africa  ----->  19.849232479478783 KM traveled.
+908. Badulla, Sri Lanka  ----->  361.7082717604965 KM traveled.
+909. Bella Coola, British Columbia  ----->  598.9532017526307 KM traveled.
+910. Cavtat, Croatia  ----->  1049.32138447769 KM traveled.
+911. Cabinda, Angola  ----->  1351.673067070793 KM traveled.
+912. Camden, South Carolina  ----->  727.2933234679597 KM traveled.
+913. Byumba, Rwanda  ----->  1634.5805704427348 KM traveled.
+914. Alesund, Norway  ----->  1121.5421467512886 KM traveled.
+915. Bole, Ghana  ----->  790.9221826454241 KM traveled.
+916. Caguas, Puerto Rico  ----->  1015.8416638931429 KM traveled.
+917. Ash Flat, Arkansas  ----->  759.5546477492743 KM traveled.
+918. Alva, Oklahoma  ----->  2475.7516714479943 KM traveled.
+919. Bumbuna, Sierra Leone  ----->  1372.318533219438 KM traveled.
+920. Carrical, Cape Verde  ----->  1440.5818170212115 KM traveled.
+921. Atlantic City, New Jersey  ----->  514.7873092849159 KM traveled.
+922. Breclav, Czech Republic  ----->  1156.9552082258783 KM traveled.
+923. Bahraich, Uttar Pradesh  ----->  897.2287016690055 KM traveled.
+924. Bouillon, Belgium  ----->  1018.2947451973516 KM traveled.
+925. Boundiali, Ivory Coast  ----->  260.55818978424344 KM traveled.
+926. Cartagena, Spain  ----->  322.32537950956225 KM traveled.
+927. Bayan, Mongolia  ----->  370.4531321108493 KM traveled.
+928. Botevgrad, Bulgaria  ----->  508.58704301608356 KM traveled.
+929. Belfast, Maine  ----->  571.0693839234115 KM traveled.
+930. Aribinda, Burkina Faso  ----->  429.59745167715306 KM traveled.
+931. Benton Harbor, Michigan  ----->  172.0047413571716 KM traveled.
+932. Bulawayo, Zimbabwe  ----->  80.2318613883918 KM traveled.
+933. Barnaul, Russia  ----->  870.7379880084293 KM traveled.
+934. Anse Boileau, Seychelles  ----->  1231.2965363073854 KM traveled.
+935. Campbell Town, Tasmania  ----->  1251.667513097653 KM traveled.
+936. Alpena, Michigan  ----->  1366.433425993422 KM traveled.
+937. Almirante, Panama  ----->  1295.8398848853972 KM traveled.
+938. Al Uwaynat, Libya  ----->  1619.8389994208464 KM traveled.
+939. Alexandria, Louisiana  ----->  2799.621166930197 KM traveled.
+940. Abomey, Benin  ----->  665.5908352352371 KM traveled.
+941. Caxito, Angola  ----->  1002.33826135911 KM traveled.
+942. Berkovitsa, Bulgaria  ----->  1265.123311608937 KM traveled.
+943. Ambatondrazaka, Madagascar  ----->  3204.138454469222 KM traveled.
+944. Camiri, Bolivia  ----->  483.2299249454226 KM traveled.
+945. Cam Ranh, Vietnam  ----->  356.4457716331269 KM traveled.
+946. Aracaju, Brazil  ----->  617.877696861057 KM traveled.
+947. Albany, New York  ----->  975.6926199303801 KM traveled.
+948. Campbelltown, New South Wales  ----->  679.3031607957196 KM traveled.
+949. Bellampalle, Madhya Pradesh  ----->  505.8418708779928 KM traveled.
+950. Braga, Portugal  ----->  727.9972948324536 KM traveled.
+951. Brampton, Ontario  ----->  1534.875982528798 KM traveled.
+952. Bonthe, Sierra Leone  ----->  251.82645123504463 KM traveled.
+953. Boa Vista, Cape Verde  ----->  528.8689370646716 KM traveled.
+954. Borotou, Ivory Coast  ----->  313.09383081966047 KM traveled.
+955. Borzhomi, Georgia (Asia)  ----->  270.6937157195632 KM traveled.
+956. Canquelifa, Guinea-Bissau  ----->  381.9313540338453 KM traveled.
+957. Annaba, Algeria  ----->  188.84654100714255 KM traveled.
+958. Anchorage, Alaska  ----->  73.16157857855936 KM traveled.
+959. Boca Chica, Dominican Republic  ----->  41.437786028550846 KM traveled.
+960. Aalst, Belgium  ----->  150.8663583403214 KM traveled.
+961. Antigua, Guatemala  ----->  120.38604937333939 KM traveled.
+962. Aachen, Germany  ----->  177.9953811463248 KM traveled.
+963. Braunau, Austria  ----->  181.11885524383518 KM traveled.
+964. Cadillac, Michigan  ----->  40.94104618421939 KM traveled.
+965. Bray, Ireland  ----->  84.27144696816036 KM traveled.
+966. Bangalore, Karnataka  ----->  242.30859915151677 KM traveled.
+967. Bonanza, Nicaragua  ----->  113.05704308898173 KM traveled.
+968. Borgarnes, Iceland  ----->  372.4248104423666 KM traveled.
+969. Abastumani, Georgia (Asia)  ----->  300.7223597919334 KM traveled.
+970. Bethlehem, Pennsylvania  ----->  324.6939187649885 KM traveled.
+971. Boromo, Burkina Faso  ----->  261.98035569235543 KM traveled.
+972. Caixao Grande, Sao Tome and Principe  ----->  133.7632716086846 KM traveled.
+973. Borisov, Belarus  ----->  400.65174235730393 KM traveled.
+974. Bellary, Karnataka  ----->  162.7146931404027 KM traveled.
+975. Baoma, Sierra Leone  ----->  215.43839039636885 KM traveled.
+976. Austin, Nevada  ----->  189.31489531483757 KM traveled.
+977. Asela, Ethiopia  ----->  298.91534299554104 KM traveled.
+978. Beau Bassin, Mauritius  ----->  25.84074289566449 KM traveled.
+979. Asahigawa, Japan  ----->  67.39657938748444 KM traveled.
+980. Berkeley, California  ----->  92.00113363096283 KM traveled.
+981. Al Kut, Iraq  ----->  44.9644129798375 KM traveled.
+982. Adh Dhakhirah, Qatar  ----->  104.57216236467781 KM traveled.
+983. Biala Podlaska, Poland  ----->  256.16501862552303 KM traveled.
+984. Arnhem, Netherlands  ----->  198.73371988971206 KM traveled.
+985. Al Khiran, Kuwait  ----->  208.91346250437107 KM traveled.
+986. Askim, Norway  ----->  181.43483158449968 KM traveled.
+987. Angeles, Philippines  ----->  87.13149983412481 KM traveled.
+988. Buena Vista, Colorado  ----->  95.99457856787603 KM traveled.
+989. Budir, Iceland  ----->  223.42938249123665 KM traveled.
+990. Blitta, Togo  ----->  29.96709438185875 KM traveled.
+991. Bowling Green, Ohio  ----->  120.85798157224863 KM traveled.
+992. Aleg, Mauritania  ----->  262.55612204263787 KM traveled.
+993. Bellevue, Washington  ----->  290.860634461972 KM traveled.
+994. Buenos Aires, Colombia  ----->  318.11405392171423 KM traveled.
+995. Benalla, Victoria  ----->  206.05567938800982 KM traveled.
+996. Al Jawf, Saudi Arabia  ----->  116.81526670309023 KM traveled.
+997. Al Budayyi, Bahrain  ----->  323.76973530080556 KM traveled.
+998. Ashdod, Israel  ----->  86.28521076539289 KM traveled.
+999. Asau, Western Samoa  ----->  130.28355926607628 KM traveled.
+1000. Al Aqabah, Jordan  ----->  107.8046854073403 KM traveled.
+1001. Apia, Western Samoa  ----->  117.3296868935421 KM traveled.
+1002. Al Huwaisah, Oman  ----->  117.99015634137055 KM traveled.
+1003. Al Hirmil, Lebanon  ----->  28.542801600589613 KM traveled.
+1004. Bula, Guinea-Bissau  ----->  230.43231872150676 KM traveled.
+1005. Ar Rastan, Syria  ----->  261.49551054413615 KM traveled.
+1006. Ada, Oklahoma  ----->  238.92376932856126 KM traveled.
+1007. Afif, Saudi Arabia  ----->  227.87947834370183 KM traveled.
+1008. Awbari, Libya  ----->  155.1497532262304 KM traveled.
+1009. Beni Mellal, Morocco  ----->  474.7088316101788 KM traveled.
+1010. Caen, France  ----->  528.2924528839368 KM traveled.
+1011. Bayonne, France  ----->  211.5424045133024 KM traveled.
+1012. Aurangabad, Bihar  ----->  188.95284229090353 KM traveled.
+1013. Beaufort, Malaysia  ----->  253.87862661138868 KM traveled.
+1014. Al Mafraq, United Arab Emirates  ----->  194.00254619358736 KM traveled.
+1015. Carolina, Puerto Rico  ----->  555.7928568531077 KM traveled.
+1016. Battambang, Cambodia  ----->  219.58256589503492 KM traveled.
+1017. Bawku, Ghana  ----->  127.63748786138163 KM traveled.
+1018. Baboua, Central African Republic  ----->  428.5962065874136 KM traveled.
+1019. Ardmore, Oklahoma  ----->  255.6496553714897 KM traveled.
+1020. Bukit Timah Village, Singapore  ----->  514.2244151669713 KM traveled.
+1021. Arta, Greece  ----->  347.2081347368996 KM traveled.
+1022. Bishkek, Kyrgyzstan  ----->  307.64265017013344 KM traveled.
+1023. Bischofshofen, Austria  ----->  495.9527602467123 KM traveled.
+1024. Amravati, Maharashtra  ----->  151.638597526386 KM traveled.
+1025. Bad Ischl, Austria  ----->  192.1878035670957 KM traveled.
+1026. Badajoz, Spain  ----->  511.5532181963971 KM traveled.
+1027. Ambala, Haryana  ----->  379.1142173533563 KM traveled.
+1028. Awaso, Ghana  ----->  172.0611408359366 KM traveled.
+1029. Avignon, France  ----->  173.5035741535516 KM traveled.
+1030. Ajo, Arizona  ----->  385.3908462441596 KM traveled.
+1031. Akordat, Eritrea  ----->  109.40444856437502 KM traveled.
+1032. Andkhvoy, Afghanistan  ----->  122.011596908532 KM traveled.
+1033. Abu Dhabi, United Arab Emirates  ----->  372.29018610197534 KM traveled.
+1034. Arequipa, Peru  ----->  371.1173080964726 KM traveled.
+1035. Agra, India  ----->  151.1722665640255 KM traveled.
+1036. Al Khaburah, Oman  ----->  244.43305612705183 KM traveled.
+1037. Arima, Trinidad and Tobago  ----->  45.78329853278545 KM traveled.
+1038. Ben Slimane, Morocco  ----->  56.670505303887985 KM traveled.
+1039. Al Qunfudhah, Saudi Arabia  ----->  359.6759182005504 KM traveled.
+1040. Bandar-e Anzali, Iran  ----->  464.70196146406346 KM traveled.
+1041. Bururi, Burundi  ----->  233.86806388862996 KM traveled.
+1042. Baherden, Turkmenistan  ----->  327.26048682397374 KM traveled.
+1043. Abadan, Iran  ----->  387.5772709747326 KM traveled.
+1044. Berlin, New Hampshire  ----->  661.7702137201436 KM traveled.
+1045. Bhuban, Orissa  ----->  259.0915257921963 KM traveled.
+1046. Austin, Texas  ----->  500.6927006985421 KM traveled.
+1047. Aozou, Chad  ----->  596.0583036141636 KM traveled.
+1048. Banfora, Burkina Faso  ----->  236.4106732948045 KM traveled.
+1049. Abu Road, Rajasthan  ----->  54.15360971343418 KM traveled.
+1050. Ad Diwaniyah, Iraq  ----->  232.64148928047751 KM traveled.
+1051. Al Junaynah, Sudan  ----->  710.55998275235 KM traveled.
+1052. Al Jawf, Libya  ----->  344.17816510117274 KM traveled.
+1053. Al Bawiti, Egypt  ----->  83.99461641163735 KM traveled.
+1054. Al Batrun, Lebanon  ----->  106.51441343658993 KM traveled.
+1055. Bahawalpur, Pakistan  ----->  245.22123414124343 KM traveled.
+1056. Al Qatrun, Libya  ----->  59.95379606823592 KM traveled.
+1057. Al Hudaydah, Yemen  ----->  58.21957231681634 KM traveled.
+1058. Atoka, Oklahoma  ----->  398.781944182451 KM traveled.
+1059. Aloja, Latvia  ----->  265.2744975926263 KM traveled.
+1060. Akranes, Iceland  ----->  198.0818926454592 KM traveled.
+1061. Al Buraymi, Oman  ----->  23.53821582270336 KM traveled.
+1062. Al Jubayl, Saudi Arabia  ----->  95.46345136169164 KM traveled.
+1063. Artsvashen, Armenia  ----->  79.25833398762033 KM traveled.
+1064. Akron, Ohio  ----->  87.36737673245472 KM traveled.
+1065. Ape, Latvia  ----->  71.63599369946999 KM traveled.
+1066. Al Amar, Bahrain  ----->  32.58222804028594 KM traveled.
+1067. Al Hulaybah, Kuwait  ----->  78.44502827749857 KM traveled.
+1068. Bellefonte, Pennsylvania  ----->  95.62836311242276 KM traveled.
+1069. Al Kharrarah, Qatar  ----->  90.14963256040808 KM traveled.
+1070. Al Mafraq, Jordan  ----->  257.21914814402106 KM traveled.
+1071. Al Judaydah, Lebanon  ----->  68.89412428169692 KM traveled.
+1072. Al Ghuwayriyah, Qatar  ----->  112.67130507821976 KM traveled.
+1073. Al Muharraq, Bahrain  ----->  130.20913874044956 KM traveled.
+1074. Ankara, Turkey  ----->  125.17737054677463 KM traveled.
+1075. Aguilares, El Salvador  ----->  332.14016344221955 KM traveled.
+1076. Alvdal, Norway  ----->  147.15324904032678 KM traveled.
+1077. Agana, Guam  ----->  188.32743745358283 KM traveled.
+1078. Arvayheer, Mongolia  ----->  70.19270794744861 KM traveled.
+1079. Arvada, Colorado  ----->  174.32793268173907 KM traveled.
+1080. Al Qasr, Egypt  ----->  161.07252481394946 KM traveled.
+1081. Augustow, Poland  ----->  261.13049019764253 KM traveled.
+1082. Beaufort, South Carolina  ----->  173.07098410965256 KM traveled.
+1083. Boorama, Somalia  ----->  320.3059559081634 KM traveled.
+1084. Anugul, Orissa  ----->  134.08226346645168 KM traveled.
+1085. Arusha, Tanzania  ----->  117.93564681173395 KM traveled.
+1086. Ad Dammam, Saudi Arabia  ----->  148.9301171908535 KM traveled.
+1087. Arecibo, Puerto Rico  ----->  30.347917043751092 KM traveled.
+1088. As Suwayda, Syria  ----->  254.11639105833297 KM traveled.
+1089. Boosaaso, Somalia  ----->  163.03192918813562 KM traveled.
+1090. Amsterdam, New York  ----->  179.106432221129 KM traveled.
+1091. Artemisa, Cuba  ----->  264.94009587646025 KM traveled.
+1092. Bastia, France  ----->  249.35381404847053 KM traveled.
+1093. Carmacks, Yukon Territory  ----->  337.0177688307328 KM traveled.
+1094. Bathurst, New Brunswick  ----->  159.18868348367496 KM traveled.
+1095. Ashburton, New Zealand  ----->  332.3665176888194 KM traveled.
+1096. Amstetten, Austria  ----->  613.6696315928234 KM traveled.
+1097. Al Mudawwarah, Jordan  ----->  284.28855576395625 KM traveled.
+1098. Ar Rifa, Bahrain  ----->  567.1019905296309 KM traveled.
+1099. Aveiro, Portugal  ----->  325.299509466276 KM traveled.
+1100. Ashland, Kentucky  ----->  143.03423185678196 KM traveled.
+1101. Arlon, Belgium  ----->  301.0950022109974 KM traveled.
+1102. Al Fuhayhil, Kuwait  ----->  178.47689250159362 KM traveled.
+1103. Al Ghurdaqah, Egypt  ----->  269.96711229425586 KM traveled.
+1104. Al Fuqaha, Libya  ----->  208.06986776231972 KM traveled.
+1105. Akureyri, Iceland  ----->  433.2298363868367 KM traveled.
+1106. Ajman, United Arab Emirates  ----->  480.40236636877125 KM traveled.
+1107. Bergen, Norway  ----->  281.49050199175906 KM traveled.
+1108. Al Hoceima, Morocco  ----->  566.7755388172803 KM traveled.
+1109. Al Kharijah, Egypt  ----->  350.88318334532755 KM traveled.
+1110. Al Qadimah, Saudi Arabia  ----->  296.2358622967288 KM traveled.
+1111. Apeldoorn, Netherlands  ----->  203.53432823606767 KM traveled.
+1112. Bonang, Victoria  ----->  285.4930369244541 KM traveled.
+1113. Asosa, Ethiopia  ----->  742.7041458069099 KM traveled.
+1114. Brattleboro, Vermont  ----->  128.48816920494644 KM traveled.
+1115. Ar Ramadi, Iraq  ----->  222.48039511078247 KM traveled.
+1116. Aitkin, Minnesota  ----->  215.93955870614755 KM traveled.
+1117. Bethel, Alaska  ----->  479.4601218189314 KM traveled.
+1118. Bembereke, Benin  ----->  218.1596022482153 KM traveled.
+1119. Berhampur, Orissa  ----->  199.21547369942613 KM traveled.
+1120. Birni Nkonni, Niger  ----->  256.06779047385095 KM traveled.
+1121. Bender Beyla, Somalia  ----->  311.7525963310743 KM traveled.
+1122. Castle Bruce, Dominica  ----->  312.11573972301625 KM traveled.
+1123. Braslav, Belarus  ----->  188.71752708569548 KM traveled.
+1124. Birkirkara, Malta  ----->  211.2125685291895 KM traveled.
+1125. Cebollati, Uruguay  ----->  212.34211457417808 KM traveled.
+1126. Bennington, Vermont  ----->  354.9354784021065 KM traveled.
+1127. Bint Jubayl, Lebanon  ----->  188.42733338961008 KM traveled.
+1128. Burnie, Tasmania  ----->  385.91944775487804 KM traveled.
+1129. Burlington, Vermont  ----->  221.07831958077045 KM traveled.
+1130. Butterworth, Malaysia  ----->  55.337155281870935 KM traveled.
+1131. Abu Samrah, Qatar  ----->  217.86960065479994 KM traveled.
+1132. Cadiz, Philippines  ----->  186.5866364521493 KM traveled.
+1133. Buon Me Thuot, Vietnam  ----->  177.96276628570746 KM traveled.
+1134. Canandaigua, New York  ----->  366.01848579084964 KM traveled.
+1135. Cabrera, Dominican Republic  ----->  195.41539692272033 KM traveled.
+1136. Burwell, Nebraska  ----->  237.8013155002845 KM traveled.
+1137. Camaguey, Cuba  ----->  98.10603455643133 KM traveled.
+1138. Baissa, Nigeria  ----->  42.32040813382326 KM traveled.
+1139. Beeville, Texas  ----->  252.6251352640942 KM traveled.
+1140. Birzebbuga, Malta  ----->  292.2445583346951 KM traveled.
+1141. Belda, West Bengal  ----->  64.19504291811324 KM traveled.
+1142. Bo, Sierra Leone  ----->  209.21800865751982 KM traveled.
+1143. Bremen, Germany  ----->  318.3962324647511 KM traveled.
+1144. Brcko, Bosnia-Herzegovina  ----->  291.25267473738927 KM traveled.
+1145. Bhimphedi, Nepal  ----->  571.3744478638367 KM traveled.
+1146. Campbellsville, Kentucky  ----->  68.00883397698463 KM traveled.
+1147. Bir Misahah, Egypt  ----->  595.3887521943731 KM traveled.
+1148. Bojnurd, Iran  ----->  446.24049983354735 KM traveled.
+1149. Batala, Punjab  ----->  60.100833639686215 KM traveled.
+1150. Bajo Boquete, Panama  ----->  181.73819203795153 KM traveled.
+1151. Auburn, Alabama  ----->  297.14379034568753 KM traveled.
+1152. Boggy Peak, Antigua and Barbuda  ----->  522.8113536966017 KM traveled.
+1153. An Najaf, Iraq  ----->  198.85582530403457 KM traveled.
+1154. Bellinzona, Switzerland  ----->  240.415561222594 KM traveled.
+1155. California, Trinidad and Tobago  ----->  220.1354222698862 KM traveled.
+1156. Cabo Rojo, Puerto Rico  ----->  201.6178526284464 KM traveled.
+1157. Assen, Netherlands  ----->  374.76702892332514 KM traveled.
+1158. Bafata, Guinea-Bissau  ----->  529.8198079202182 KM traveled.
+1159. Ain Ben Tili, Mauritania  ----->  303.9087104822204 KM traveled.
+1160. Brookhaven, Mississippi  ----->  106.37108583109796 KM traveled.
+1161. Albuquerque, New Mexico  ----->  728.1937511853527 KM traveled.
+1162. Ambovombe, Madagascar  ----->  428.1903737706231 KM traveled.
+1163. Caungula, Angola  ----->  450.178917828162 KM traveled.
+1164. Catanzaro, Italy  ----->  548.1967488140244 KM traveled.
+1165. Cayenne, French Guiana  ----->  610.439375187115 KM traveled.
+1166. Busselton, Western Australia  ----->  303.5169169578321 KM traveled.
+1167. Alotau, Papua New Guinea  ----->  227.77264020384723 KM traveled.
+1168. Amritsar, Punjab  ----->  1012.01477774011 KM traveled.
+1169. Calbayog, Philippines  ----->  635.1683765158817 KM traveled.
+1170. Brunswick, Maine  ----->  658.8079527163841 KM traveled.
+1171. Benin City, Nigeria  ----->  461.90366174029475 KM traveled.
+1172. Altdorf, Switzerland  ----->  220.69327444468624 KM traveled.
+1173. Bruini, Arunachal Pradesh  ----->  231.81706926601615 KM traveled.
+1174. Ayamiken, Equatorial Guinea  ----->  970.3914289391826 KM traveled.
+1175. Asuncion, Paraguay  ----->  497.41511660906815 KM traveled.
+1176. Barre, Vermont  ----->  422.9042918907379 KM traveled.
+1177. Boulder City, Nevada  ----->  172.1604504153095 KM traveled.
+1178. Calivigny, Grenada  ----->  315.6575811598617 KM traveled.
+1179. Braila, Romania  ----->  313.8964442940913 KM traveled.
+1180. Al Malikiyah, Bahrain  ----->  612.6752935063255 KM traveled.
+1181. Al Khums, Libya  ----->  157.2715975165942 KM traveled.
+1182. Brunswick, Georgia (U.S.)  ----->  235.8470736837913 KM traveled.
+1183. Beaver, Oklahoma  ----->  388.818315603421 KM traveled.
+1184. Baudette, Minnesota  ----->  211.10716814904768 KM traveled.
+1185. Bjelovar, Croatia  ----->  213.74997236114262 KM traveled.
+1186. Brikama, Gambia  ----->  292.6683264185329 KM traveled.
+1187. Bamian, Afghanistan  ----->  163.78224594176237 KM traveled.
+1188. Canillo, Andorra  ----->  116.51568413727999 KM traveled.
+1189. Brahmaur, Himachal Pradesh  ----->  707.9811168426972 KM traveled.
+1190. Boulia, Queensland  ----->  165.13500568573966 KM traveled.
+1191. Botad, Gujarat  ----->  76.84572200768949 KM traveled.
+1192. Bol, Chad  ----->  424.86812107350704 KM traveled.
+1193. Beled Weyne, Somalia  ----->  583.2752829867246 KM traveled.
+1194. Bilara, Rajasthan  ----->  902.8312110186603 KM traveled.
+1195. Bouar, Central African Republic  ----->  289.54322759357296 KM traveled.
+1196. Bucaramanga, Colombia  ----->  203.89153726457482 KM traveled.
+1197. Banswara, Rajasthan  ----->  1956.0297976662116 KM traveled.
+1198. Buffalo, New York  ----->  1387.328511378461 KM traveled.
+1199. Arba Minch, Ethiopia  ----->  431.0227609294388 KM traveled.
+1200. Bidar, Karnataka  ----->  350.1620030207449 KM traveled.
+1201. Ashtarak, Armenia  ----->  837.9444364341625 KM traveled.
+1202. Baraawe, Somalia  ----->  426.1050810823608 KM traveled.
+1203. Battle Mountain, Nevada  ----->  316.52786258169454 KM traveled.
+1204. Attopu, Laos  ----->  37.232693376277574 KM traveled.
+1205. Belmopan, Belize  ----->  337.496664862949 KM traveled.
+1206. Bialobrzegi, Poland  ----->  152.252920261165 KM traveled.
+1207. Bonn, Germany  ----->  1075.4540116514565 KM traveled.
+1208. Bongor, Chad  ----->  491.2260232546097 KM traveled.
+1209. Caia, Mozambique  ----->  995.36088967758 KM traveled.
+1210. Albury-Wodonga, Victoria  ----->  516.2866327800972 KM traveled.
+1211. Brisbane, Queensland  ----->  187.6253562284623 KM traveled.
+1212. Ambalangoda, Sri Lanka  ----->  242.5413541662652 KM traveled.
+1213. Aguadulce, Panama  ----->  432.9131982975007 KM traveled.
+1214. Alexander Bay, South Africa  ----->  163.0757856329214 KM traveled.
+1215. Anse-d'Hainault, Haiti  ----->  316.9635175537975 KM traveled.
+1216. Bir Sahra, Egypt  ----->  147.6551923419358 KM traveled.
+1217. Cando, North Dakota  ----->  167.97008980113074 KM traveled.
+1218. Aarau, Switzerland  ----->  114.61659493271286 KM traveled.
+1219. Az Zarqa, Jordan  ----->  73.80227209116384 KM traveled.
+1220. Asansol, West Bengal  ----->  196.31788398218816 KM traveled.
+1221. Beroubouay, Benin  ----->  296.86809689208934 KM traveled.
+1222. Bina Etawa, Madhya Pradesh  ----->  216.31586821129534 KM traveled.
+1223. Blackfoot, Idaho  ----->  382.79157710217595 KM traveled.
+1224. Azamgarh, Uttar Pradesh  ----->  240.08566891754822 KM traveled.
+1225. Bratislava, Slovakia  ----->  189.00154174655975 KM traveled.
+1226. Aspen, Colorado  ----->  360.69519212670025 KM traveled.
+1227. Ashqelon, Israel  ----->  568.4147735575996 KM traveled.
+1228. Asselborn, Luxembourg  ----->  1016.2977947121287 KM traveled.
+1229. Baalbek, Lebanon  ----->  364.402467559521 KM traveled.
+1230. Buenaventura, Colombia  ----->  122.54762477413756 KM traveled.
+1231. Bua, Fiji  ----->  255.7833383595947 KM traveled.
+1232. Bristol, United Kingdom  ----->  114.65365402836794 KM traveled.
+1233. Brooklyn, NEW YORK CITY  ----->  245.97754710618506 KM traveled.
+1234. Bsharri, Lebanon  ----->  370.4963964053128 KM traveled.
+1235. Bally, Goa  ----->  831.6328372079429 KM traveled.
+1236. Bairagnia, Bihar  ----->  432.85538917186034 KM traveled.
+1237. Banica, Dominican Republic  ----->  110.94988326744809 KM traveled.
+1238. Brownsweg, Suriname  ----->  128.23898876141683 KM traveled.
+1239. Afobaka, Suriname  ----->  210.7139939048063 KM traveled.
+1240. Carcassonne, France  ----->  572.2581409530775 KM traveled.
+1241. Balho, Djibouti  ----->  290.4315000419699 KM traveled.
+1242. Biloxi, Mississippi  ----->  332.0599434443511 KM traveled.
+1243. Boise, Idaho  ----->  161.9717647773714 KM traveled.
+1244. Ballarat, Victoria  ----->  352.79320763126555 KM traveled.
+1245. Bimbila, Ghana  ----->  453.4406887738944 KM traveled.
+1246. Aba, Nigeria  ----->  236.39271411733844 KM traveled.
+1247. Cagayan de Oro, Philippines  ----->  238.11196984013375 KM traveled.
+1248. Bartoszyce, Poland  ----->  172.65723329173483 KM traveled.
+1249. At Taif, Saudi Arabia  ----->  140.170422673756 KM traveled.
+1250. Biloku, Guyana  ----->  391.0247123122134 KM traveled.
+1251. Bogue, Mauritania  ----->  186.159237194963 KM traveled.
+1252. Bissamcuttack, Orissa  ----->  142.53486964852937 KM traveled.
+1253. Belur, Karnataka  ----->  774.8542537252864 KM traveled.
+1254. Abengourou, Ivory Coast  ----->  455.3337771622864 KM traveled.
+1255. Cacao, French Guiana  ----->  281.6272579226712 KM traveled.
+1256. Atchison, Kansas  ----->  198.18693803831172 KM traveled.
+1257. Campina Grande, Brazil  ----->  335.19420745102093 KM traveled.
+1258. Camden, Alabama  ----->  167.5516081914606 KM traveled.
+1259. Aboisso, Ivory Coast  ----->  454.0675482525036 KM traveled.
+1260. Barmer, Rajasthan  ----->  103.1332547739478 KM traveled.
+1261. Beltsy, Moldova  ----->  426.4465581694897 KM traveled.
+1262. Brasilia, Brazil  ----->  195.52706906027308 KM traveled.
+1263. Abohar, Punjab  ----->  204.69336330924816 KM traveled.
+1264. Agadir, Morocco  ----->  195.07243880850027 KM traveled.
+1265. Butwal, Nepal  ----->  219.85221886694384 KM traveled.
+1266. Battleford, Saskatchewan  ----->  180.97540116009253 KM traveled.
+1267. Bessemer, Alabama  ----->  478.6931634384258 KM traveled.
+1268. Bomdilla, Arunachal Pradesh  ----->  282.35334743366514 KM traveled.
+1269. Bainet, Haiti  ----->  344.1144002538975 KM traveled.
+1270. Asheville, North Carolina  ----->  399.60535407413954 KM traveled.
+1271. Bara Banki, Uttar Pradesh  ----->  131.00574249490208 KM traveled.
+1272. Bangor, Maine  ----->  149.95324747200524 KM traveled.
+1273. Baguio City, Philippines  ----->  402.31691376453807 KM traveled.
+1274. Alajuela, Costa Rica  ----->  367.3768252814032 KM traveled.
+1275. Bou Izakarn, Morocco  ----->  217.9097751602355 KM traveled.
+1276. Castara, Trinidad and Tobago  ----->  301.76387835086354 KM traveled.
+1277. Cartwright, Newfoundland  ----->  257.05340247705396 KM traveled.
+1278. Bellevue, Nebraska  ----->  104.63616433648555 KM traveled.
+1279. Boke, Guinea  ----->  298.616451788195 KM traveled.
+1280. Bogou, Togo  ----->  154.16542154554116 KM traveled.
+1281. Ar Raqqah, Syria  ----->  141.2144603452782 KM traveled.
+1282. Casablanca, Morocco  ----->  89.62051037997009 KM traveled.
+1283. Cape Girardeau, Missouri  ----->  213.66998579469606 KM traveled.
+1284. Bhikhna Thori, Nepal  ----->  376.01132638089666 KM traveled.
+1285. Arkadelphia, Arkansas  ----->  245.7504275956326 KM traveled.
+1286. Cairo, Illinois  ----->  194.33247610592133 KM traveled.
+1287. Branson, Missouri  ----->  237.96214519523318 KM traveled.
+1288. Birganj, Nepal  ----->  124.55030434709626 KM traveled.
+1289. Bien Hoa, Vietnam  ----->  107.92780642053192 KM traveled.
+1290. Brainerd, Minnesota  ----->  277.22157742055504 KM traveled.
+1291. Badami, Karnataka  ----->  31.640764955261975 KM traveled.
+1292. Biel, Switzerland  ----->  200.5615841641313 KM traveled.
+1293. Beloit, Wisconsin  ----->  252.36327367075327 KM traveled.
+1294. As Samawah, Iraq  ----->  137.41305741141358 KM traveled.
+1295. Abenra, Denmark  ----->  272.73039301391015 KM traveled.
+1296. Bwiam, Gambia  ----->  305.2901068205498 KM traveled.
+1297. Bomi Hills, Liberia  ----->  17.102719022254558 KM traveled.
+1298. Borgo Maggiore, San Marino  ----->  209.26369239187238 KM traveled.
+1299. Bonners Ferry, Idaho  ----->  341.00621982293296 KM traveled.
+1300. Bordertown, South Australia  ----->  199.8201898947431 KM traveled.
+1301. Bela Vista, Sao Tome and Principe  ----->  204.03080804570828 KM traveled.
+1302. Blackwater, Queensland  ----->  127.8328536357584 KM traveled.
+1303. Bolama, Guinea-Bissau  ----->  89.22828091412451 KM traveled.
+1304. Al Wukayr, Qatar  ----->  206.79626628043852 KM traveled.
+1305. Butler, Alabama  ----->  184.15002312484427 KM traveled.
+1306. Butte, Montana  ----->  215.93902471480556 KM traveled.
+1307. Betioky, Madagascar  ----->  118.55731056577092 KM traveled.
+1308. Cankuzo, Burundi  ----->  45.352072403164065 KM traveled.
+1309. Bloomington, Indiana  ----->  267.28208594718313 KM traveled.
+1310. Badarpur, Assam  ----->  64.00242913551708 KM traveled.
+1311. Baie-de-Henne, Haiti  ----->  720.0417452667233 KM traveled.
+1312. Blakely, Georgia (U.S.)  ----->  549.555304469023 KM traveled.
+1313. Cangamba, Angola  ----->  382.0411444655476 KM traveled.
+1314. Beersheba, Israel  ----->  155.1299132770158 KM traveled.
+1315. Brahmakund, Arunachal Pradesh  ----->  714.8729037567963 KM traveled.
+1316. Akita, Japan  ----->  649.8811000858461 KM traveled.
+1317. Carlin, Nevada  ----->  472.98268085727216 KM traveled.
+1318. Callao, Peru  ----->  1049.6378122881558 KM traveled.
+1319. Antofagasta, Chile  ----->  870.8352705163927 KM traveled.
+1320. Andalusia, Alabama  ----->  495.4421025346003 KM traveled.
+1321. Bedford, Indiana  ----->  1681.153029279186 KM traveled.
+1322. Cayon, St. Kitts and Nevis  ----->  673.8550532285944 KM traveled.
+1323. Cairns, Queensland  ----->  3458.120530945245 KM traveled.
+1324. Baku, Azerbaijan  ----->  684.8490385456166 KM traveled.
+1325. Akot, Maharashtra  ----->  390.96094229006127 KM traveled.
+1326. Bir Moghrein, Mauritania  ----->  795.6689754591596 KM traveled.
+1327. Bechar, Algeria  ----->  648.0674946317552 KM traveled.
+1328. Atlantic, Iowa  ----->  806.882700740441 KM traveled.
+1329. Bethesda, Maryland  ----->  489.36844674781617 KM traveled.
+1330. Adoni, Andhra Pradesh  ----->  642.5032757483274 KM traveled.
+1331. Abeche, Chad  ----->  129.8715602434751 KM traveled.
+1332. At Bashi, Kyrgyzstan  ----->  621.0580168982561 KM traveled.
+1333. Auce, Latvia  ----->  259.9451583823898 KM traveled.
+1334. Bela, Uttar Pradesh  ----->  256.68038698207755 KM traveled.
+1335. Boaco, Nicaragua  ----->  470.61102452216187 KM traveled.
+1336. Bitterfontein, South Africa  ----->  564.0876827770761 KM traveled.
+1337. Bandundu, Congo (Kinshasa)  ----->  566.4795692697829 KM traveled.
+1338. Catano, Puerto Rico  ----->  150.15634554545525 KM traveled.
+1339. As Sulaymaniyah, Iraq  ----->  1385.4797553587512 KM traveled.
+1340. Bogra, Bangladesh  ----->  357.33409892354297 KM traveled.
+1341. Ayr, Queensland  ----->  1566.678506650821 KM traveled.
+1342. Brasov, Romania  ----->  1464.0041709890108 KM traveled.
+1343. Butuan, Philippines  ----->  1260.1730011364375 KM traveled.
+1344. Alcacer do Sal, Portugal  ----->  976.9408111711174 KM traveled.
+1345. Bulolo, Papua New Guinea  ----->  2097.89576328333 KM traveled.
+1346. Bur Safajah, Egypt  ----->  4300.396603112577 KM traveled.
+1347. Brighton, United Kingdom  ----->  1248.8743118402056 KM traveled.
+1348. Altay, China  ----->  765.8053912874568 KM traveled.
+1349. Ayaguz, Kazakstan  ----->  602.9213265330641 KM traveled.
+1350. Barrow, Alaska  ----->  80.89548865240505 KM traveled.
+1351. Arakkonam, Tamil Nadu  ----->  1043.4880935675603 KM traveled.
+1352. An Nasiriyah, Iraq  ----->  465.7065606480768 KM traveled.
+1353. Asaba, Nigeria  ----->  689.2146684898695 KM traveled.
+1354. Anefis, Mali  ----->  126.13552681764237 KM traveled.
+1355. Andorra la Vella, Andorra  ----->  354.9619636682007 KM traveled.
+1356. Augsburg, Germany  ----->  293.23583575996116 KM traveled.
+1357. Americus, Georgia (U.S.)  ----->  981.5091212287825 KM traveled.
+1358. Al Mukalla, Yemen  ----->  631.3314258922759 KM traveled.
+1359. Buenos Aires, Costa Rica  ----->  566.4405337161583 KM traveled.
+1360. Acquaviva, San Marino  ----->  157.27508697455323 KM traveled.
+1361. Atbasar, Kazakstan  ----->  425.0876571722147 KM traveled.
+1362. Artashat, Armenia  ----->  721.0895319487347 KM traveled.
+1363. Al Mumattalah, Bahrain  ----->  1097.683153320239 KM traveled.
+1364. Augusta, Georgia (U.S.)  ----->  1541.2323781971 KM traveled.
+1365. American Falls, Idaho  ----->  2227.067114812195 KM traveled.
+1366. Albury-Wodonga, New South Wales  ----->  2051.9260685012723 KM traveled.
+1367. Amyun, Lebanon  ----->  619.964030351121 KM traveled.
+1368. Al Qasrayn, Tunisia  ----->  1684.7955784024332 KM traveled.
+1369. Burns, Oregon  ----->  1681.1858513101843 KM traveled.
+1370. Bolans, Antigua and Barbuda  ----->  1121.097581960075 KM traveled.
+1371. Bou Arfa, Morocco  ----->  847.1444165655315 KM traveled.
+1372. Ankleswar, Gujarat  ----->  1084.122694841082 KM traveled.
+1373. Belogradchik, Bulgaria  ----->  327.94590747153717 KM traveled.
+1374. Awjilah, Libya  ----->  177.98111594965727 KM traveled.
+1375. Bentiu, Sudan  ----->  294.6889497316135 KM traveled.
+1376. Berea, Kentucky  ----->  583.079596506268 KM traveled.
+1377. Bengkulu, Indonesia  ----->  216.5922690734643 KM traveled.
+1378. Al Hasakah, Syria  ----->  277.9772700606103 KM traveled.
+1379. Al Khawr, Qatar  ----->  225.13301967201946 KM traveled.
+1380. Alcova, Wyoming  ----->  195.78139858348175 KM traveled.
+1381. Bethlehem, Jordan  ----->  165.68963868545765 KM traveled.
+1382. Areopolis, Greece  ----->  145.80949538698846 KM traveled.
+1383. Bacau, Romania  ----->  49.955463958236436 KM traveled.
+1384. Bhilai, Madhya Pradesh  ----->  188.64761098165079 KM traveled.
+1385. Biratnagar, Nepal  ----->  78.33916985940806 KM traveled.
+1386. Achar, Uruguay  ----->  97.5341465468255 KM traveled.
+1387. Bikramganj, Bihar  ----->  295.03046278317345 KM traveled.
+1388. Bonaigarh, Orissa  ----->  364.499191450142 KM traveled.
+1389. Catania, Italy  ----->  270.5869399374379 KM traveled.
+1390. Bremerton, Washington  ----->  9.936027964405634 KM traveled.
+1391. Cape Coast, Ghana  ----->  213.9195735898279 KM traveled.
+1392. Bowen, Queensland  ----->  120.51883129262148 KM traveled.
+1393. Catskill, New York  ----->  140.32681792693293 KM traveled.
+1394. Canon City, Colorado  ----->  73.33785355609209 KM traveled.
+1395. Boulder, Colorado  ----->  268.8430280130532 KM traveled.
+1396. Cabral, Dominican Republic  ----->  211.21873822459395 KM traveled.
+1397. Cajamarca, Peru  ----->  101.48413099479406 KM traveled.
+1398. Bor, Sudan  ----->  65.93947239450063 KM traveled.
+1399. Cesky Krumlov, Czech Republic  ----->  105.5330400915367 KM traveled.
+1400. Ceske Budejovice, Czech Republic  ----->  20.99361116891297 KM traveled.
+1401. Benghazi, Libya  ----->  358.5300440001797 KM traveled.
+1402. Belleplaine, Barbados  ----->  344.28072471833633 KM traveled.
+1403. Ar Rusayris, Sudan  ----->  202.0740385929672 KM traveled.
+1404. Boston, Massachusetts  ----->  623.5371037296262 KM traveled.
+1405. Bowling Green, Kentucky  ----->  211.083965386639 KM traveled.
+1406. Bojanciste, Macedonia  ----->  263.5669381518104 KM traveled.
+1407. Beni Abbes, Algeria  ----->  90.79863742772643 KM traveled.
+1408. Beitbridge, Zimbabwe  ----->  442.94767535349547 KM traveled.
+1409. Beli, Nigeria  ----->  235.9373753404564 KM traveled.
+1410. Bethlehem, Israel  ----->  277.25593906340544 KM traveled.
+1411. Berekua, Dominica  ----->  469.7076161519833 KM traveled.
+1412. Athens, Ohio  ----->  274.8591608755032 KM traveled.
+1413. Aqmola, Kazakstan  ----->  316.33123590431643 KM traveled.
+1414. Berat, Albania  ----->  527.7502684488202 KM traveled.
+1415. Arviat, Northwest Territories  ----->  330.6000008762493 KM traveled.
+1416. Abu Simbel, Egypt  ----->  400.6685398889875 KM traveled.
+1417. Berchtesgaden, Germany  ----->  230.36233086896056 KM traveled.
+1418. Benque Viejo, Belize  ----->  547.873848176169 KM traveled.
+1419. Calarasi, Moldova  ----->  318.0063957271106 KM traveled.
+1420. Aberdeen, Washington  ----->  406.3197265494929 KM traveled.
+1421. Banmauk, Burma  ----->  244.5057441753554 KM traveled.
+1422. Al Ghaydah, Yemen  ----->  357.4947287074362 KM traveled.
+1423. Carsamba, Turkey  ----->  284.97917668713575 KM traveled.
+1424. Acapulco, Mexico  ----->  152.31202433403797 KM traveled.
+1425. Anadarko, Oklahoma  ----->  149.5567015861015 KM traveled.
+1426. Barquisimeto, Venezuela  ----->  693.6242499543914 KM traveled.
+1427. Blackwell, Oklahoma  ----->  287.9536857828911 KM traveled.
+1428. Ballina, New South Wales  ----->  593.0261384411775 KM traveled.
+1429. Caraquet, New Brunswick  ----->  982.6312230542859 KM traveled.
+1430. Aqtau, Kazakstan  ----->  791.8132405052512 KM traveled.
+1431. Albany, Western Australia  ----->  380.6838553322173 KM traveled.
+1432. Allentown, Pennsylvania  ----->  258.31721018962054 KM traveled.
+1433. Begoml, Belarus  ----->  164.68428222016757 KM traveled.
+1434. Alexandria, Egypt  ----->  493.0968434813975 KM traveled.
+1435. Blacksburg, Virginia  ----->  224.24243444022687 KM traveled.
+1436. Airai, Palau  ----->  137.26543597284515 KM traveled.
+1437. Bria, Central African Republic  ----->  498.2893344933018 KM traveled.
+1438. Birdsville, Queensland  ----->  141.8499472815319 KM traveled.
+1439. Aneho, Togo  ----->  298.37533413903594 KM traveled.
+1440. Big Bend, Swaziland  ----->  139.81535348707078 KM traveled.
+1441. Androka, Madagascar  ----->  375.356414571169 KM traveled.
+1442. Al Minya, Egypt  ----->  400.5091477388477 KM traveled.
+1443. Alamosa, Colorado  ----->  565.0490193658864 KM traveled.
+1444. Auckland, New Zealand  ----->  462.04952866398196 KM traveled.
+1445. Arctic Village, Alaska  ----->  244.74121916260506 KM traveled.
+1446. Auki, Solomon Islands  ----->  169.62036221158758 KM traveled.
+1447. Ar Rutbah, Iraq  ----->  206.7679996365336 KM traveled.
+1448. Ararat, Victoria  ----->  131.85547264331703 KM traveled.
+1449. Baruun Urt, Mongolia  ----->  336.3609796433769 KM traveled.
+1450. Beaver, Utah  ----->  132.02640925751817 KM traveled.
+1451. Anetan, Nauru  ----->  307.38911541816606 KM traveled.
+1452. Barvala, Gujarat  ----->  528.7988484671346 KM traveled.
+1453. Al Lith, Saudi Arabia  ----->  437.43305933382965 KM traveled.
+1454. Arjeplog, Sweden  ----->  299.0926593413216 KM traveled.
+1455. Andoas, Peru  ----->  36.932859487841085 KM traveled.
+1456. Awali, Bahrain  ----->  317.8735937399943 KM traveled.
+1457. Anse Royale, Seychelles  ----->  553.8613892427828 KM traveled.
+1458. Auburn, New York  ----->  508.59440437031316 KM traveled.
+1459. Allinge, Denmark  ----->  559.8853602749161 KM traveled.
+1460. Billings, Montana  ----->  363.6440959223264 KM traveled.
+1461. Banikoara, Benin  ----->  604.191127855062 KM traveled.
+1462. Alturas, California  ----->  168.54808499708255 KM traveled.
+1463. Bilimora, Gujarat  ----->  433.97277272230826 KM traveled.
+1464. Bulandshahr, Uttar Pradesh  ----->  882.6061717224501 KM traveled.
+1465. Beijing, China  ----->  539.0838294700285 KM traveled.
+1466. Barpeta, Assam  ----->  546.7839070449025 KM traveled.
+1467. Berwick, Pennsylvania  ----->  197.02684469014403 KM traveled.
+1468. Balotra, Rajasthan  ----->  1256.8735522137351 KM traveled.
+1469. Amroha, Uttar Pradesh  ----->  660.9248081927304 KM traveled.
+1470. Beatrice, Nebraska  ----->  137.4281844925497 KM traveled.
+1471. Caconda, Angola  ----->  93.22176485893188 KM traveled.
+1472. Bilasipara, Assam  ----->  411.8775657980856 KM traveled.
+1473. Bibiani, Ghana  ----->  603.575453904772 KM traveled.
+1474. Ajnala, Punjab  ----->  145.51203593810777 KM traveled.
+1475. Barre, Massachusetts  ----->  250.0671373275752 KM traveled.
+1476. Ar Rawdatyn, Kuwait  ----->  882.916252248183 KM traveled.
+1477. Betroka, Madagascar  ----->  701.8441838948728 KM traveled.
+1478. Centralia, Washington  ----->  1251.6478266682757 KM traveled.
+1479. Bassila, Benin  ----->  344.6950741558783 KM traveled.
+1480. Bahia Blanca, Argentina  ----->  421.9088287633773 KM traveled.
+1481. Ashtabula, Ohio  ----->  333.39605535125054 KM traveled.
+1482. Bigonville, Luxembourg  ----->  201.35338014325615 KM traveled.
+1483. Antioch, Turkey  ----->  193.23497320640192 KM traveled.
+1484. Al Mahdiyah, Tunisia  ----->  53.28483515105717 KM traveled.
+1485. Antonito, Colorado  ----->  378.75147161313953 KM traveled.
+1486. Al Basrah, Iraq  ----->  275.67802379463063 KM traveled.
+1487. Al Jahrah, Kuwait  ----->  85.85931530189244 KM traveled.
+1488. Ansongo, Mali  ----->  178.76178444569237 KM traveled.
+1489. Al Hadd, Bahrain  ----->  249.16091979000487 KM traveled.
+1490. Aizawl, Mizoram  ----->  59.955678621523845 KM traveled.
+1491. Bakel, Senegal  ----->  268.1325025273874 KM traveled.
+1492. Al Askar, Bahrain  ----->  319.5037031095561 KM traveled.
+1493. Bajah, Tunisia  ----->  211.60466643023224 KM traveled.
+1494. Babadayhan, Turkmenistan  ----->  130.81846724171407 KM traveled.
+1495. Amalner, Maharashtra  ----->  260.3688364347118 KM traveled.
+1496. Berberati, Central African Republic  ----->  381.35888729626066 KM traveled.
+1497. Abraham's Bay, Bahamas  ----->  774.1286979849948 KM traveled.
+1498. Arxan, China  ----->  764.8541894596075 KM traveled.
+1499. Alborg, Denmark  ----->  486.57453029403473 KM traveled.
+1500. Aksum, Ethiopia  ----->  797.1350982938079 KM traveled.
+1501. Andoany, Madagascar  ----->  232.71484153245203 KM traveled.
+1502. Bogalusa, Louisiana  ----->  977.3408846641972 KM traveled.
+1503. Arua, Uganda  ----->  279.69864209441135 KM traveled.
+1504. Al Metlaoui, Tunisia  ----->  432.19970733163046 KM traveled.
+1505. Al Mayadin, Syria  ----->  499.20919895827274 KM traveled.
+1506. Asbury Park, New Jersey  ----->  770.3229042665082 KM traveled.
+1507. Al Ayn, United Arab Emirates  ----->  911.1207775717594 KM traveled.
+1508. Burlington, Colorado  ----->  537.355642664017 KM traveled.
+1509. Adilabad, Andhra Pradesh  ----->  306.29116557679924 KM traveled.
+1510. Adjuntas, Puerto Rico  ----->  222.18219820781414 KM traveled.
+1511. Brazzaville, Congo (Brazzaville)  ----->  319.9203318854037 KM traveled.
+1512. Anabar, Nauru  ----->  491.3379921704872 KM traveled.
+1513. Aqtobe, Kazakstan  ----->  220.70395456848155 KM traveled.
+1514. Casa Grande, Arizona  ----->  661.3915838708715 KM traveled.
+1515. Bourges, France  ----->  127.46223053749792 KM traveled.
+1516. Cegled, Hungary  ----->  214.9985928253177 KM traveled.
+1517. Bedok, Singapore  ----->  597.3255407999228 KM traveled.
+1518. Agcabadi, Azerbaijan  ----->  118.70541236197731 KM traveled.
+1519. Batavia, New York  ----->  80.4057309603522 KM traveled.
+1520. Brezno, Slovakia  ----->  33.27195673660574 KM traveled.
+1521. Batina, Croatia  ----->  257.02879446724705 KM traveled.
+1522. Balasore (Baleshwar), Orissa  ----->  142.46130421316067 KM traveled.
+1523. Botosani, Romania  ----->  577.1531247739525 KM traveled.
+1524. Blaj, Romania  ----->  164.65213458936162 KM traveled.
+1525. Birmingham, Alabama  ----->  191.96632469970402 KM traveled.
+1526. Bondoukou, Ivory Coast  ----->  243.3589805102131 KM traveled.
+1527. Bentonville, Arkansas  ----->  74.06756561444028 KM traveled.
+1528. Bartlesville, Oklahoma  ----->  445.33773365458546 KM traveled.
+1529. Cabool, Missouri  ----->  1227.5010169289521 KM traveled.
+1530. Cesis, Latvia  ----->  734.5986412722552 KM traveled.
+1531. Carbondale, Illinois  ----->  562.7202130143106 KM traveled.
+1532. Altoona, Pennsylvania  ----->  745.1706192966994 KM traveled.
+1533. Althofen, Austria  ----->  636.5028892554164 KM traveled.
+1534. Baharampur, West Bengal  ----->  1291.2473151624758 KM traveled.
+1535. Ahvaz, Iran  ----->  1840.5492877175434 KM traveled.
+1536. Bridgewater, Nova Scotia  ----->  585.603255649012 KM traveled.
+1537. Banff, Alberta  ----->  3615.4592391284586 KM traveled.
+1538. Barnala, Punjab  ----->  840.0127467051157 KM traveled.
+1539. Atalaya, Peru  ----->  1457.409890225916 KM traveled.
+1540. Birao, Central African Republic  ----->  1276.0629252962297 KM traveled.
+1541. Bryan, Ohio  ----->  4627.0066334988705 KM traveled.
+1542. Anniston, Alabama  ----->  803.6008862523672 KM traveled.
+1543. Bahadurgarh, Haryana  ----->  523.132334867433 KM traveled.
+1544. Ali Bayramli, Azerbaijan  ----->  790.5159256732051 KM traveled.
+1545. Appleton, Wisconsin  ----->  716.948194060164 KM traveled.
+1546. Blenheim, New Zealand  ----->  1283.447596759425 KM traveled.
+1547. Anakapalle, Andhra Pradesh  ----->  1966.8102077255862 KM traveled.
+1548. Buchanan, Liberia  ----->  1363.5224769815297 KM traveled.
+1549. Berovo, Macedonia  ----->  102.0360405651599 KM traveled.
+1550. Beroun, Czech Republic  ----->  324.4482284508871 KM traveled.
+1551. Ahmadabad, Gujarat  ----->  176.01859726912292 KM traveled.
+1552. Cairo, Egypt  ----->  338.19358807219004 KM traveled.
+1553. Antananarivo, Madagascar  ----->  1573.140508059614 KM traveled.
+1554. Bilbao, Spain  ----->  1753.3570730299036 KM traveled.
+1555. Bergamo, Italy  ----->  674.1257383320112 KM traveled.
+1556. Az Zannah, United Arab Emirates  ----->  2022.2184934078668 KM traveled.
+1557. Armenia, El Salvador  ----->  2016.8719186490782 KM traveled.
+1558. Bacolod, Philippines  ----->  4807.509327963996 KM traveled.
+1559. Bellefontaine, Ohio  ----->  1444.7256761980875 KM traveled.
+1560. Bossangoa, Central African Republic  ----->  1614.6562138651386 KM traveled.
+1561. Bukhara, Uzbekistan  ----->  676.5440543739072 KM traveled.
+1562. Bubaque, Guinea-Bissau  ----->  2453.192889626801 KM traveled.
+1563. Amu Darya, Turkmenistan  ----->  1616.7785588900983 KM traveled.
+1564. Arinsal, Andorra  ----->  516.502230609668 KM traveled.
+1565. Ash Shihr, Yemen  ----->  230.38909411136476 KM traveled.
+1566. Amsterdam, Netherlands  ----->  1334.850570625988 KM traveled.
+1567. Al Wakrah, Qatar  ----->  1395.2605004249303 KM traveled.
+1568. Andijon, Uzbekistan  ----->  768.4728922097859 KM traveled.
+1569. Bela, Pakistan  ----->  2475.9075502079413 KM traveled.
+1570. Bridgeport, Nebraska  ----->  1159.487372050294 KM traveled.
+1571. Budaun, Uttar Pradesh  ----->  2420.5150870510242 KM traveled.
+1572. Albert Lea, Minnesota  ----->  943.5770110606267 KM traveled.
+1573. Caribou, Maine  ----->  2618.6274869497665 KM traveled.
+1574. Apoteri, Guyana  ----->  1538.457454539451 KM traveled.
+1575. Amring, Assam  ----->  455.43474064755634 KM traveled.
+1576. Anand, Gujarat  ----->  2263.518094920259 KM traveled.
+1577. Ballinasloe, Ireland  ----->  449.2113355482418 KM traveled.
+1578. Birjand, Iran  ----->  2876.971474605977 KM traveled.
+1579. Anderlecht, Belgium  ----->  884.24077629646 KM traveled.
+1580. Assab, Eritrea  ----->  598.3729422877891 KM traveled.
+1581. Astoria, Oregon  ----->  258.89437345045735 KM traveled.
+1582. Az Zubarah, Qatar  ----->  1263.757756480205 KM traveled.
+1583. Ajmer, Rajasthan  ----->  2908.1692709501767 KM traveled.
+1584. Axim, Ghana  ----->  5223.964136856799 KM traveled.
+1585. Bardoli, Gujarat  ----->  1379.9551068610015 KM traveled.
+1586. Batumi, Georgia (Asia)  ----->  1674.2691682595969 KM traveled.
+1587. Beida, Libya  ----->  1160.3345856784201 KM traveled.
+1588. Beruni, Uzbekistan  ----->  757.3841274234196 KM traveled.
+1589. Ballarpur, Maharashtra  ----->  525.0690823565961 KM traveled.
+1590. Barstow, California  ----->  1830.6994542832524 KM traveled.
+1591. Ayni, Tajikistan  ----->  3425.9895066205986 KM traveled.
+1592. Bella Union, Uruguay  ----->  5768.306892704463 KM traveled.
+1593. Annapolis, Maryland  ----->  9219.341893206749 KM traveled.
+1594. Al Munastir, Tunisia  ----->  3888.7658628316635 KM traveled.
+1595. Amreli, Gujarat  ----->  2778.035591479476 KM traveled.
+1596. A'opo, Western Samoa  ----->  2992.4501643625867 KM traveled.
+1597. Aqcheh, Afghanistan  ----->  736.1625408958615 KM traveled.
+1598. Amatitlan, Guatemala  ----->  1803.039584814569 KM traveled.
+1599. Baja, Hungary  ----->  11838.474302402064 KM traveled.
+1600. Bairnsdale, Victoria  ----->  1010.6016400014371 KM traveled.
+Back to: Istanbul, Turkey  ----->  4013.8064605722902 KM traveled.
+
+Total Distance is  ----->  685028.1380776326 KM
+
+Total Execution time: 678 ms

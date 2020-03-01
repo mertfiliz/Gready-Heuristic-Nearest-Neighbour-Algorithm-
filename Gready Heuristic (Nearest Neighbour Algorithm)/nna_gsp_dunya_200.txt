@@ -1,0 +1,208 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 200 countries: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Afyon, Turkey  ----->  287.44631628273964 KM
+3. Aksehir, Turkey  ----->  88.16109917769019 KM
+4. Adana, Turkey  ----->  373.73586379733007 KM
+5. Al Bab, Syria  ----->  211.66905938762034 KM
+6. Al Qusayr, Syria  ----->  162.62090675209933 KM
+7. Al Hirmil, Lebanon  ----->  21.405305760013654 KM
+8. Afula, Israel  ----->  310.9595668282822 KM
+9. Al Mafraq, Jordan  ----->  91.08130639237028 KM
+10. Al Mafraq, United Arab Emirates  ----->  154.14747953616134 KM
+11. Al Badi, Saudi Arabia  ----->  124.86545474374238 KM
+12. Al Jafr, Jordan  ----->  143.03561267334365 KM
+13. Al Maqnah, Saudi Arabia  ----->  156.96152398430178 KM
+14. Al Batrun, Lebanon  ----->  127.10698116756494 KM
+15. Al Mudawwarah, Jordan  ----->  236.84774854244463 KM
+16. Al Wajh, Saudi Arabia  ----->  49.14400568856664 KM
+17. Al Aqabah, Jordan  ----->  148.77021883834496 KM
+18. Al Ghurdaqah, Egypt  ----->  120.30326121170046 KM
+19. Al Mahallah al Kubra, Egypt  ----->  268.7365286235528 KM
+20. Al Kharijah, Egypt  ----->  76.67290287951957 KM
+21. Al Bawiti, Egypt  ----->  178.46638476501235 KM
+22. Al Fayyum, Egypt  ----->  375.62137289942956 KM
+23. Al Qasr, Egypt  ----->  308.72017078000806 KM
+24. Al Uwaynat, Libya  ----->  492.35959490995185 KM
+25. Al Jawf, Libya  ----->  383.39502179503285 KM
+26. Al Junaynah, Sudan  ----->  85.82262840861839 KM
+27. Al Jaghbub, Libya  ----->  250.83718275836765 KM
+28. Abu Simbel, Egypt  ----->  757.488247325045 KM
+29. Al Qatranah, Jordan  ----->  801.226512453005 KM
+30. Al Qadimah, Saudi Arabia  ----->  304.770943435109 KM
+31. Al Hudaydah, Yemen  ----->  429.3708725383569 KM
+32. Al Hillah, Iraq  ----->  144.669990357434 KM
+33. Ad Diwaniyah, Iraq  ----->  220.83190783649823 KM
+34. Al Khiran, Kuwait  ----->  338.75517741078704 KM
+35. Ahvaz, Iran  ----->  150.9121198095034 KM
+36. Abadan, Iran  ----->  115.93339953570538 KM
+37. Al Jahrah, Kuwait  ----->  84.486692983628 KM
+38. Al Ahmadi, Kuwait  ----->  49.85658510839008 KM
+39. Al Basrah, Iraq  ----->  35.98920494516631 KM
+40. Al Hulaybah, Kuwait  ----->  49.67999750794027 KM
+41. Al Amarah, Iraq  ----->  97.03356125616415 KM
+42. Al Fuhayhil, Kuwait  ----->  121.69793590955817 KM
+43. Al Wafra, Kuwait  ----->  178.89886972842208 KM
+44. Al Jubayl, Saudi Arabia  ----->  174.58007408810937 KM
+45. Al Muharraq, Bahrain  ----->  101.26717822146833 KM
+46. Al Khawr, Qatar  ----->  56.806528020169644 KM
+47. Ad Dammam, Saudi Arabia  ----->  18.570185934324513 KM
+48. Al Khaburah, Oman  ----->  200.95314419903096 KM
+49. Al Wukayr, Qatar  ----->  45.90750459059746 KM
+50. Al Wakrah, Qatar  ----->  7.421460674639892 KM
+51. Al Amar, Bahrain  ----->  146.83142246087831 KM
+52. Al Ayn, United Arab Emirates  ----->  15.641693710412596 KM
+53. Al Mumattalah, Bahrain  ----->  212.3534852859739 KM
+54. Abu Samrah, Qatar  ----->  47.5716046732999 KM
+55. Al Ubaylah, Saudi Arabia  ----->  89.41487756129477 KM
+56. Al Jumayliyah, Qatar  ----->  275.0934598580777 KM
+57. Al Fuqaha, Libya  ----->  364.04539376784425 KM
+58. Al Miknasi, Tunisia  ----->  241.53979539603688 KM
+59. Al Mahdiyah, Tunisia  ----->  276.13357579701926 KM
+60. Al Khubar, Saudi Arabia  ----->  502.5580393818478 KM
+61. Al Ghuwayriyah, Qatar  ----->  478.62153541835227 KM
+62. Al Maqwa, Kuwait  ----->  286.196892505088 KM
+63. Al Huwaisah, Oman  ----->  64.68296864511875 KM
+64. Ada, Oklahoma  ----->  117.99921499665544 KM
+65. Al Khums, Libya  ----->  226.15245838438386 KM
+66. Al Qunaytirah, Syria  ----->  114.72717808747429 KM
+67. Al Qamishli, Syria  ----->  494.0470298438617 KM
+68. Agrinion, Greece  ----->  538.9305294440269 KM
+69. Agcabadi, Azerbaijan  ----->  203.09874482947464 KM
+70. Agstafa, Azerbaijan  ----->  173.08038521644323 KM
+71. Abastumani, Georgia (Asia)  ----->  471.9070451973324 KM
+72. Ajo, Arizona  ----->  808.9653399409726 KM
+73. Ajaccio, France  ----->  1074.4397012119687 KM
+74. Akhaltsikhe, Georgia (Asia)  ----->  590.1501505361468 KM
+75. Al Munastir, Tunisia  ----->  401.9666969903221 KM
+76. Al Mayadin, Syria  ----->  291.33017051453163 KM
+77. Al Marj, Libya  ----->  115.14938976680477 KM
+78. Al Labwah, Lebanon  ----->  333.13306196652627 KM
+79. Al Qatrun, Libya  ----->  345.36051054015843 KM
+80. Al Kharrarah, Qatar  ----->  502.7227062450268 KM
+81. Adrar, Algeria  ----->  127.78066265286057 KM
+82. Al Buraymi, Oman  ----->  437.84282712027203 KM
+83. Aizawl, Mizoram  ----->  554.3534242177507 KM
+84. Ain Ben Tili, Mauritania  ----->  376.7616566595247 KM
+85. Agra, Uttar Pradesh  ----->  320.9652826830812 KM
+86. Al Malikiyah, Bahrain  ----->  596.9891029367046 KM
+87. Al Metlaoui, Tunisia  ----->  1074.8723043742468 KM
+88. Al Jamm, Tunisia  ----->  628.5482560020137 KM
+89. Adh Dhakhirah, Qatar  ----->  258.57975166223 KM
+90. Abu Kamal, Syria  ----->  254.1864701835723 KM
+91. Al Qunfudhah, Saudi Arabia  ----->  279.73508238748997 KM
+92. Akola, Maharashtra  ----->  340.40266126363423 KM
+93. Adilabad, Andhra Pradesh  ----->  493.82274544734645 KM
+94. Adi Ugri, Eritrea  ----->  833.1501136062137 KM
+95. Abha, Saudi Arabia  ----->  494.37503970966645 KM
+96. Ahwa, Gujarat  ----->  524.8042402648459 KM
+97. Al Qaysumah, Saudi Arabia  ----->  150.05558889858523 KM
+98. Al Mukalla, Yemen  ----->  558.3763759507506 KM
+99. Al Budayyi, Bahrain  ----->  742.4369356324573 KM
+100. Ajdabiya, Libya  ----->  208.72753755815307 KM
+101. Akureyri, Iceland  ----->  122.76930653340547 KM
+102. Al Askar, Bahrain  ----->  270.32307953323254 KM
+103. Abu Dhabi, United Arab Emirates  ----->  129.20993101603779 KM
+104. Adh Dhahibat, Tunisia  ----->  378.24083163763885 KM
+105. Al Minya, Egypt  ----->  476.12176190783407 KM
+106. Al Ghaydah, Yemen  ----->  157.85490855468723 KM
+107. Al Kut, Iraq  ----->  944.0341720976164 KM
+108. Al Judaydah, Lebanon  ----->  2383.0412409520586 KM
+109. Al Hasakah, Syria  ----->  610.0208873962905 KM
+110. Al Fujayrah, United Arab Emirates  ----->  430.85601741074805 KM
+111. Al Lith, Saudi Arabia  ----->  266.7195535493829 KM
+112. Al Jawf, Saudi Arabia  ----->  137.04897506893573 KM
+113. Agboville, Ivory Coast  ----->  929.1581985531607 KM
+114. Adzope, Ivory Coast  ----->  504.68662659407676 KM
+115. Akron, Ohio  ----->  671.3369838876781 KM
+116. Akaki, Cyprus  ----->  589.8531316391848 KM
+117. Adilang, Uganda  ----->  1829.5503054516605 KM
+118. Adur, Kerala  ----->  722.133904959117 KM
+119. Abeche, Chad  ----->  818.4209850915629 KM
+120. Aden, Yemen  ----->  1097.7131058125503 KM
+121. Abuja, Nigeria  ----->  389.5460583632737 KM
+122. Aguilares, El Salvador  ----->  84.56286860130281 KM
+123. Al Qasrayn, Tunisia  ----->  628.8029153737489 KM
+124. Acquaviva, San Marino  ----->  850.2653820425362 KM
+125. Al Hoceima, Morocco  ----->  977.7744422332369 KM
+126. Afton, Wyoming  ----->  937.8197390584637 KM
+127. Aarau, Switzerland  ----->  520.5562426905875 KM
+128. Aachen, Germany  ----->  405.65963426713887 KM
+129. Aalst, Belgium  ----->  146.9200381692765 KM
+130. Abenra, Denmark  ----->  584.1409939854642 KM
+131. Aizpute, Latvia  ----->  193.80145325252124 KM
+132. Adutiskis, Lithuania  ----->  806.373061910012 KM
+133. Aksum, Ethiopia  ----->  1411.0028773988618 KM
+134. Akordat, Eritrea  ----->  2997.340120128335 KM
+135. Adigrat, Ethiopia  ----->  2037.2443638947414 KM
+136. Agdam, Azerbaijan  ----->  684.8729886922322 KM
+137. Agsu, Azerbaijan  ----->  368.102986335025 KM
+138. Ajmer, Rajasthan  ----->  978.4247371974291 KM
+139. Abohar, Punjab  ----->  198.9530162664696 KM
+140. Ajman, United Arab Emirates  ----->  415.6553435590966 KM
+141. Abu Road, Rajasthan  ----->  231.22992783012668 KM
+142. Ahaggar Mountains, Algeria  ----->  248.5122683799611 KM
+143. Ahmadabad, Gujarat  ----->  216.9529964912123 KM
+144. Achabal, Kashmir  ----->  203.30230379096253 KM
+145. Akita, Japan  ----->  160.04419858487398 KM
+146. Adjuntas, Puerto Rico  ----->  574.6325872849957 KM
+147. Aklera, Rajasthan  ----->  31.123094163825527 KM
+148. Ahuachapan, El Salvador  ----->  402.70389095533784 KM
+149. Adri, Libya  ----->  626.7868320142871 KM
+150. Agana, Guam  ----->  1662.833864707794 KM
+151. Agra, India  ----->  2063.3540298931425 KM
+152. Aitkin, Minnesota  ----->  2519.9501284239864 KM
+153. Ainsworth, Nebraska  ----->  3320.3438983642563 KM
+154. Agadir, Morocco  ----->  1634.6750335052761 KM
+155. Akieni, Gabon  ----->  810.3108571120813 KM
+156. Ahwar, Yemen  ----->  1805.536041492327 KM
+157. Aberdeen, Hong Kong  ----->  1717.5264562883638 KM
+158. Addis Ababa, Ethiopia  ----->  6892.93189520386 KM
+159. A'opo, Western Samoa  ----->  5459.8562487913305 KM
+160. Afobaka, Suriname  ----->  7131.156584171407 KM
+161. Aguadulce, Panama  ----->  1023.9139632600667 KM
+162. Acapulco, Mexico  ----->  400.7493926471314 KM
+163. Ad Dur, Bahrain  ----->  529.8380128890859 KM
+164. Airai, Palau  ----->  375.1625316321084 KM
+165. Alajuela, Costa Rica  ----->  1089.8068983712058 KM
+166. Akranes, Iceland  ----->  545.6185636752609 KM
+167. Aguadilla, Puerto Rico  ----->  491.43960115207443 KM
+168. Aguascalientes, Mexico  ----->  983.3165926849526 KM
+169. Ahmadnagar, Maharashtra  ----->  320.52243698968334 KM
+170. Acajutla, El Salvador  ----->  249.10245416473978 KM
+171. Abraham's Bay, Bahamas  ----->  1954.5730236190377 KM
+172. Adjud, Romania  ----->  957.8630321325654 KM
+173. Aguada, Goa  ----->  299.55542233512057 KM
+174. Afif, Saudi Arabia  ----->  1585.3027773783738 KM
+175. Achar, Uruguay  ----->  2240.023170379471 KM
+176. Aberdeen, Maryland  ----->  1735.6871398146022 KM
+177. Aihui, China  ----->  1279.786776448028 KM
+178. Aberdeen, South Dakota  ----->  1361.5171702174782 KM
+179. Abilene, Kansas  ----->  739.1261378651035 KM
+180. Abilene, Texas  ----->  756.5801679884644 KM
+181. Ajnala, Punjab  ----->  1239.1653873897956 KM
+182. Aberdeen, Washington  ----->  1876.8747107101199 KM
+183. Ainazi, Latvia  ----->  2018.2853592544827 KM
+184. Akot, Maharashtra  ----->  5596.920571615779 KM
+185. Aiken, South Carolina  ----->  1394.2584324301406 KM
+186. Al Hadd, Bahrain  ----->  527.6297864948469 KM
+187. Accra, Ghana  ----->  359.7360070486489 KM
+188. Abadla, Algeria  ----->  357.0962238812504 KM
+189. Adoni, Andhra Pradesh  ----->  459.9582218047314 KM
+190. Agartala, Tripura  ----->  571.8710870312789 KM
+191. Agadez, Niger  ----->  949.2114615337787 KM
+192. Abengourou, Ivory Coast  ----->  1324.0519642977758 KM
+193. Abidjan, Ivory Coast  ----->  163.54843402682593 KM
+194. Aboisso, Ivory Coast  ----->  101.36235558341559 KM
+195. Abomey, Benin  ----->  621.2543301494951 KM
+196. Abeokuta, Nigeria  ----->  151.87238212827108 KM
+197. Aba, Nigeria  ----->  500.7263873640424 KM
+198. Akurenan, Equatorial Guinea  ----->  3581.847025949036 KM
+199. Adelaide, South Australia  ----->  6771.077220832154 KM
+200. Achalpur, Maharashtra  ----->  6112.024410423683 KM
+Back to: Istanbul, Turkey  ----->  9605.395349783135 KM
+
+Total Distance is  ----->  158780.94139373084 KM
+
+Total Execution time: 32 ms

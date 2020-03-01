@@ -1,0 +1,308 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 300 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Alexandroupolis, Greece  ----->  262.26768497509636 KM traveled.
+3. Alexandria, Romania  ----->  352.446517284416 KM traveled.
+4. Adjud, Romania  ----->  277.7741003792584 KM traveled.
+5. Aleksinac, Yugoslavia  ----->  518.3763303679158 KM traveled.
+6. Agrinion, Greece  ----->  547.9166564746454 KM traveled.
+7. Al Marj, Libya  ----->  686.8179459333535 KM traveled.
+8. Ajdabiya, Libya  ----->  201.4902366295905 KM traveled.
+9. Al Jaghbub, Libya  ----->  429.2664747306997 KM traveled.
+10. Al Qasr, Egypt  ----->  450.7700515112642 KM traveled.
+11. Al Fayyum, Egypt  ----->  210.40719428111046 KM traveled.
+12. Al Minya, Egypt  ----->  27.920071414954563 KM traveled.
+13. Al Mahallah al Kubra, Egypt  ----->  110.67418400550216 KM traveled.
+14. Al Kharijah, Egypt  ----->  310.0233514785521 KM traveled.
+15. Al Khaburah, Oman  ----->  87.12683625952594 KM traveled.
+16. Al Batrun, Lebanon  ----->  223.04398678738355 KM traveled.
+17. Ain Ben Tili, Mauritania  ----->  453.93101369363 KM traveled.
+18. Al Jumayliyah, Qatar  ----->  296.4934116722046 KM traveled.
+19. Aizawl, Mizoram  ----->  91.21442789827414 KM traveled.
+20. Al Uwaynat, Libya  ----->  411.16498414345506 KM traveled.
+21. Abu Simbel, Egypt  ----->  709.9870113627821 KM traveled.
+22. Al Ghaydah, Yemen  ----->  445.87887299100856 KM traveled.
+23. Al Mudawwarah, Jordan  ----->  221.0653386772999 KM traveled.
+24. Al Mafraq, United Arab Emirates  ----->  29.104264279293083 KM traveled.
+25. Al Wajh, Saudi Arabia  ----->  31.836774528867746 KM traveled.
+26. Al Qatranah, Jordan  ----->  151.25100294454023 KM traveled.
+27. Al Qusayr, Syria  ----->  333.962219133968 KM traveled.
+28. Akola, Maharashtra  ----->  199.51747201916362 KM traveled.
+29. Al Qunfudhah, Saudi Arabia  ----->  354.2798197432423 KM traveled.
+30. Abu Kamal, Syria  ----->  279.73508238748997 KM traveled.
+31. Al Jawf, Libya  ----->  168.46671973619868 KM traveled.
+32. Al Jubayl, Saudi Arabia  ----->  358.45350153012896 KM traveled.
+33. Al Huwaisah, Oman  ----->  137.52691664414016 KM traveled.
+34. Al Bab, Syria  ----->  491.84728337292336 KM traveled.
+35. Al Amarah, Iraq  ----->  117.30240088704184 KM traveled.
+36. Afula, Israel  ----->  345.0804235230556 KM traveled.
+37. Al Mafraq, Jordan  ----->  87.3398301916496 KM traveled.
+38. Alayh, Lebanon  ----->  156.35864935437328 KM traveled.
+39. Al Basrah, Iraq  ----->  50.681493463143 KM traveled.
+40. Al Maqnah, Saudi Arabia  ----->  92.64378703947972 KM traveled.
+41. Al Qunaytirah, Syria  ----->  113.40079036043858 KM traveled.
+42. Aleppo, Syria  ----->  171.152460282543 KM traveled.
+43. Adana, Turkey  ----->  191.05292255440744 KM traveled.
+44. Akron, Ohio  ----->  373.73586379733007 KM traveled.
+45. Amasya, Turkey  ----->  460.11662778252685 KM traveled.
+46. Abastumani, Georgia (Asia)  ----->  599.5575639639054 KM traveled.
+47. Akaki, Cyprus  ----->  28.20489200308257 KM traveled.
+48. Amasiya, Armenia  ----->  92.88028597376632 KM traveled.
+49. Alaverdi, Armenia  ----->  76.81814221189083 KM traveled.
+50. Agcabadi, Azerbaijan  ----->  230.575441876652 KM traveled.
+51. Agstafa, Azerbaijan  ----->  173.08038521644323 KM traveled.
+52. Altyagach, Azerbaijan  ----->  53.91451305050769 KM traveled.
+53. Alat, Azerbaijan  ----->  108.18871433401269 KM traveled.
+54. Ali Bayramli, Azerbaijan  ----->  39.6135484337426 KM traveled.
+55. Al Mukalla, Yemen  ----->  311.9601781681562 KM traveled.
+56. Al Hudaydah, Yemen  ----->  255.87199022404775 KM traveled.
+57. Al Qaysumah, Saudi Arabia  ----->  106.65140229347274 KM traveled.
+58. Al Kut, Iraq  ----->  49.05903952634183 KM traveled.
+59. Ad Diwaniyah, Iraq  ----->  402.1643280017476 KM traveled.
+60. Al Khiran, Kuwait  ----->  333.50452068136406 KM traveled.
+61. Al Khubar, Saudi Arabia  ----->  167.96692867038644 KM traveled.
+62. Al Ahmadi, Kuwait  ----->  65.50472859743365 KM traveled.
+63. Al Ghurdaqah, Egypt  ----->  98.07737400686061 KM traveled.
+64. Al Kharrarah, Qatar  ----->  193.3239472278385 KM traveled.
+65. Al Ghuwayriyah, Qatar  ----->  52.030943619489165 KM traveled.
+66. Al Fuqaha, Libya  ----->  276.0885113783507 KM traveled.
+67. Abu Dhabi, United Arab Emirates  ----->  297.66629414781175 KM traveled.
+68. Al Askar, Bahrain  ----->  249.47223267750127 KM traveled.
+69. Al Junaynah, Sudan  ----->  433.9587552017229 KM traveled.
+70. Al Hulaybah, Kuwait  ----->  336.75909579078024 KM traveled.
+71. Al Ubaylah, Saudi Arabia  ----->  510.0053903261248 KM traveled.
+72. Al Mumattalah, Bahrain  ----->  47.77577746334502 KM traveled.
+73. Al Malikiyah, Bahrain  ----->  28.201396867774807 KM traveled.
+74. Al Jawf, Saudi Arabia  ----->  100.79750933689522 KM traveled.
+75. Al Bawiti, Egypt  ----->  93.0168075049019 KM traveled.
+76. Al Maqwa, Kuwait  ----->  242.32332501934172 KM traveled.
+77. Abadan, Iran  ----->  118.43374353579834 KM traveled.
+78. Al Buraymi, Oman  ----->  281.8181174096247 KM traveled.
+79. Al Wafra, Kuwait  ----->  178.89886972842208 KM traveled.
+80. Akureyri, Iceland  ----->  27.99723431953663 KM traveled.
+81. Al Jafr, Jordan  ----->  76.27884650902267 KM traveled.
+82. Al Badi, Saudi Arabia  ----->  32.14115563881584 KM traveled.
+83. Al Amar, Bahrain  ----->  121.1816788964822 KM traveled.
+84. Agra, Uttar Pradesh  ----->  371.3506141975843 KM traveled.
+85. Al Hoceima, Morocco  ----->  319.69657865771086 KM traveled.
+86. Afif, Saudi Arabia  ----->  165.3300521472356 KM traveled.
+87. Al Qamishli, Syria  ----->  521.2472842828629 KM traveled.
+88. Al Hasakah, Syria  ----->  365.59582675999957 KM traveled.
+89. Al Qadimah, Saudi Arabia  ----->  523.8022636688768 KM traveled.
+90. Al Hillah, Iraq  ----->  286.22614750385156 KM traveled.
+91. Al Labwah, Lebanon  ----->  126.25574464035378 KM traveled.
+92. Al Ayn, United Arab Emirates  ----->  561.819252436197 KM traveled.
+93. Abha, Saudi Arabia  ----->  849.788818704468 KM traveled.
+94. Al Hadd, Bahrain  ----->  425.49897434911117 KM traveled.
+95. Al Mayadin, Syria  ----->  44.27808249673221 KM traveled.
+96. Adigrat, Ethiopia  ----->  109.64124631245834 KM traveled.
+97. Adi Ugri, Eritrea  ----->  97.10428516394383 KM traveled.
+98. Ali Sabieh, Djibouti  ----->  591.5702638967118 KM traveled.
+99. Aden, Yemen  ----->  325.2310679887984 KM traveled.
+100. Ahuachapan, El Salvador  ----->  402.2258833310479 KM traveled.
+101. Al Khawr, Qatar  ----->  757.3536174528803 KM traveled.
+102. Abu Samrah, Qatar  ----->  253.81485050529244 KM traveled.
+103. Al Muharraq, Bahrain  ----->  39.318448017887285 KM traveled.
+104. Al Wukayr, Qatar  ----->  326.89273262727204 KM traveled.
+105. Al Wakrah, Qatar  ----->  7.421460674639892 KM traveled.
+106. Akurenan, Equatorial Guinea  ----->  140.7404699278458 KM traveled.
+107. Ad Dammam, Saudi Arabia  ----->  64.14402611788425 KM traveled.
+108. Agartala, Tripura  ----->  395.97585373097365 KM traveled.
+109. Ahvaz, Iran  ----->  841.2112821806779 KM traveled.
+110. Adh Dhahibat, Tunisia  ----->  467.6155195393786 KM traveled.
+111. Al Miknasi, Tunisia  ----->  429.12436114517 KM traveled.
+112. Al Aqabah, Jordan  ----->  761.212023622515 KM traveled.
+113. Al Khums, Libya  ----->  1485.9913165544588 KM traveled.
+114. Ada, Oklahoma  ----->  451.3796048009335 KM traveled.
+115. Ajnala, Punjab  ----->  583.3774979604494 KM traveled.
+116. Alexandria, Egypt  ----->  334.2017888881529 KM traveled.
+117. Al Jahrah, Kuwait  ----->  725.9518296304074 KM traveled.
+118. Al Fuhayhil, Kuwait  ----->  1057.0528070370135 KM traveled.
+119. Al Judaydah, Lebanon  ----->  234.7996150661742 KM traveled.
+120. Adrar, Algeria  ----->  206.47851632139327 KM traveled.
+121. Al Hirmil, Lebanon  ----->  296.69759208191994 KM traveled.
+122. Al Metlaoui, Tunisia  ----->  396.69241482228307 KM traveled.
+123. Aguascalientes, Mexico  ----->  551.1811913033739 KM traveled.
+124. Al Qatrun, Libya  ----->  904.1674185227535 KM traveled.
+125. Abeche, Chad  ----->  889.3813776052673 KM traveled.
+126. Am Timan, Chad  ----->  317.16294478790815 KM traveled.
+127. Alindao, Central African Republic  ----->  678.2151899591889 KM traveled.
+128. Adur, Kerala  ----->  754.5281773873305 KM traveled.
+129. Adilabad, Andhra Pradesh  ----->  1049.3234197178524 KM traveled.
+130. Akranes, Iceland  ----->  1398.4176314598183 KM traveled.
+131. Al Jamm, Tunisia  ----->  1342.8222677420003 KM traveled.
+132. Al Budayyi, Bahrain  ----->  646.6124847145526 KM traveled.
+133. Aguilares, El Salvador  ----->  1772.2058925708868 KM traveled.
+134. Akita, Japan  ----->  506.1193707647294 KM traveled.
+135. Adjuntas, Puerto Rico  ----->  31.123094163825527 KM traveled.
+136. Adh Dhakhirah, Qatar  ----->  470.4682317401909 KM traveled.
+137. Aklera, Rajasthan  ----->  220.95462693242158 KM traveled.
+138. Achabal, Kashmir  ----->  199.8603286021819 KM traveled.
+139. Amalner, Maharashtra  ----->  23.500294201183575 KM traveled.
+140. Ahaggar Mountains, Algeria  ----->  220.64364682327624 KM traveled.
+141. Akieni, Gabon  ----->  246.10541914403257 KM traveled.
+142. Ajman, United Arab Emirates  ----->  288.60025834548424 KM traveled.
+143. Agra, India  ----->  131.11824834547716 KM traveled.
+144. Abu Road, Rajasthan  ----->  240.36541957164945 KM traveled.
+145. Alwar, Rajasthan  ----->  463.62374936638923 KM traveled.
+146. Aligarh, Uttar Pradesh  ----->  173.7669951249118 KM traveled.
+147. Ambala, Haryana  ----->  295.2028865070503 KM traveled.
+148. Abohar, Punjab  ----->  256.6701147944668 KM traveled.
+149. Allahabad, Uttar Pradesh  ----->  921.5189634019496 KM traveled.
+150. Amarpur, Tripura  ----->  235.7642388476914 KM traveled.
+151. Amarkantak, Madhya Pradesh  ----->  450.50468011712377 KM traveled.
+152. Alipur Duar, West Bengal  ----->  900.8929712773541 KM traveled.
+153. Ambasa, Tripura  ----->  366.35349016660757 KM traveled.
+154. Along, Arunachal Pradesh  ----->  556.8714626853663 KM traveled.
+155. Agadir, Morocco  ----->  422.2365634361436 KM traveled.
+156. Allanmyo, Burma  ----->  1295.1274948598893 KM traveled.
+157. Airai, Palau  ----->  1367.553423432391 KM traveled.
+158. Alor Setar, Malaysia  ----->  872.0249381133543 KM traveled.
+159. Ambalangoda, Sri Lanka  ----->  2268.704493392856 KM traveled.
+160. Agboville, Ivory Coast  ----->  227.95382886874816 KM traveled.
+161. Ambasamudram, Tamil Nadu  ----->  315.3540102414978 KM traveled.
+162. Adri, Libya  ----->  97.07634072910952 KM traveled.
+163. Alleppey, Kerala  ----->  56.93315653704012 KM traveled.
+164. Alwaye, Kerala  ----->  71.56490908024482 KM traveled.
+165. Alibag, Maharashtra  ----->  1023.171134244424 KM traveled.
+166. Ahmadnagar, Maharashtra  ----->  95.41706895145626 KM traveled.
+167. Agdam, Azerbaijan  ----->  2371.526591763258 KM traveled.
+168. Ajaccio, France  ----->  358.774603401601 KM traveled.
+169. Almaty, Kazakstan  ----->  241.8025684472563 KM traveled.
+170. Altay, China  ----->  1013.1850322278536 KM traveled.
+171. Altay, Mongolia  ----->  638.1560102353827 KM traveled.
+172. Albany, Western Australia  ----->  2211.061963238271 KM traveled.
+173. Aberdeen, Hong Kong  ----->  1506.6951942620542 KM traveled.
+174. Ahwa, Gujarat  ----->  1393.9571566017876 KM traveled.
+175. Alice Springs, Northern Territory  ----->  860.568885197819 KM traveled.
+176. Agadez, Niger  ----->  1493.346566531512 KM traveled.
+177. Albury-Wodonga, Victoria  ----->  2399.4743635443815 KM traveled.
+178. Akhaltsikhe, Georgia (Asia)  ----->  605.3562443558103 KM traveled.
+179. Alotau, Papua New Guinea  ----->  1036.8907271854623 KM traveled.
+180. Ainazi, Latvia  ----->  1798.0983087739264 KM traveled.
+181. Alexandra, New Zealand  ----->  3985.4953705064086 KM traveled.
+182. A'opo, Western Samoa  ----->  5361.8891236159425 KM traveled.
+183. Albury-Wodonga, New South Wales  ----->  4776.274811852274 KM traveled.
+184. Addis Ababa, Ethiopia  ----->  762.5975022927132 KM traveled.
+185. Alyangula, Northern Territory  ----->  2367.114434083481 KM traveled.
+186. Achalpur, Maharashtra  ----->  6316.024114345051 KM traveled.
+187. Ambatolampy, Madagascar  ----->  3338.9113253669707 KM traveled.
+188. Ambatondrazaka, Madagascar  ----->  202.93464136971954 KM traveled.
+189. Aloja, Latvia  ----->  2682.6173908476444 KM traveled.
+190. Ajo, Arizona  ----->  1590.3168408318115 KM traveled.
+191. Aksehir, Turkey  ----->  500.79019194317027 KM traveled.
+192. Aba, Nigeria  ----->  511.49828937205024 KM traveled.
+193. Abeokuta, Nigeria  ----->  500.7263873640424 KM traveled.
+194. Abomey, Benin  ----->  151.87238212827108 KM traveled.
+195. Almeria, Spain  ----->  543.947118241278 KM traveled.
+196. Abengourou, Ivory Coast  ----->  309.25835745194956 KM traveled.
+197. Abidjan, Ivory Coast  ----->  163.54843402682593 KM traveled.
+198. Aboisso, Ivory Coast  ----->  101.36235558341559 KM traveled.
+199. Agana, Guam  ----->  944.0124882710585 KM traveled.
+200. Alkmaar, Netherlands  ----->  1046.8360735595788 KM traveled.
+201. Abuja, Nigeria  ----->  467.70275448518106 KM traveled.
+202. Adelaide, South Australia  ----->  1406.5187100431167 KM traveled.
+203. Acquaviva, San Marino  ----->  174.9659923094877 KM traveled.
+204. Al Qasrayn, Tunisia  ----->  872.5162752019205 KM traveled.
+205. Al Mahdiyah, Tunisia  ----->  140.1734707044944 KM traveled.
+206. Alborg, Denmark  ----->  163.57577075812364 KM traveled.
+207. Al Munastir, Tunisia  ----->  82.97410301837867 KM traveled.
+208. Al Lith, Saudi Arabia  ----->  28.292708812411853 KM traveled.
+209. Almelo, Netherlands  ----->  446.33781513143333 KM traveled.
+210. Algiers, Algeria  ----->  362.5759596324383 KM traveled.
+211. Allada, Benin  ----->  603.1446278555551 KM traveled.
+212. Accra, Ghana  ----->  226.18445322137384 KM traveled.
+213. Abadla, Algeria  ----->  357.0962238812504 KM traveled.
+214. Alicante, Spain  ----->  425.84902730560793 KM traveled.
+215. Adoni, Andhra Pradesh  ----->  34.22864934084198 KM traveled.
+216. Al Fujayrah, United Arab Emirates  ----->  930.4181756031935 KM traveled.
+217. Afyon, Turkey  ----->  641.1852551333042 KM traveled.
+218. Alcacer do Sal, Portugal  ----->  434.5686177078644 KM traveled.
+219. Aihui, China  ----->  865.9495670553001 KM traveled.
+220. Adutiskis, Lithuania  ----->  665.7537371297856 KM traveled.
+221. Aalst, Belgium  ----->  708.9560688346149 KM traveled.
+222. Aachen, Germany  ----->  146.9200381692765 KM traveled.
+223. Aarau, Switzerland  ----->  405.65963426713887 KM traveled.
+224. Altdorf, Switzerland  ----->  72.09900439816101 KM traveled.
+225. Althofen, Austria  ----->  445.0661533329889 KM traveled.
+226. Alexander Bay, South Africa  ----->  189.68929324155127 KM traveled.
+227. Alta, Norway  ----->  547.4462011380565 KM traveled.
+228. Allinge, Denmark  ----->  856.9789541276858 KM traveled.
+229. Afton, Wyoming  ----->  643.697329391132 KM traveled.
+230. Abenra, Denmark  ----->  1379.081895810747 KM traveled.
+231. Aitkin, Minnesota  ----->  193.80145325252124 KM traveled.
+232. Alvdal, Norway  ----->  612.9047091413503 KM traveled.
+233. Aluksne, Latvia  ----->  1057.0063030985837 KM traveled.
+234. Alytus, Lithuania  ----->  386.0140972959854 KM traveled.
+235. Aizpute, Latvia  ----->  3535.9434306320154 KM traveled.
+236. Akordat, Eritrea  ----->  6812.6209600704115 KM traveled.
+237. Achar, Uruguay  ----->  2803.6469939405674 KM traveled.
+238. Alberton, Prince Edward Island  ----->  685.6181057049266 KM traveled.
+239. Agsu, Azerbaijan  ----->  297.77606199694014 KM traveled.
+240. Allentown, Pennsylvania  ----->  718.7129219070042 KM traveled.
+241. Alexandria, Virginia  ----->  169.2808548455728 KM traveled.
+242. Altoona, Pennsylvania  ----->  305.90501698603936 KM traveled.
+243. Aberdeen, Maryland  ----->  220.74137238298243 KM traveled.
+244. Allendale, South Carolina  ----->  455.4476927491785 KM traveled.
+245. Albany, Georgia (U.S.)  ----->  335.66254960212416 KM traveled.
+246. Albemarle, North Carolina  ----->  564.3650850626444 KM traveled.
+247. Alice Town, Bahamas  ----->  654.3678801266226 KM traveled.
+248. Alligator Pond, Jamaica  ----->  316.03375681205137 KM traveled.
+249. Almirante, Panama  ----->  407.93862188073365 KM traveled.
+250. Alma, Wisconsin  ----->  856.3594601007296 KM traveled.
+251. Ainsworth, Nebraska  ----->  663.3457450356278 KM traveled.
+252. Aberdeen, South Dakota  ----->  388.1626261502215 KM traveled.
+253. Alma, Nebraska  ----->  144.75742089703382 KM traveled.
+254. Albuquerque, New Mexico  ----->  623.9935926021789 KM traveled.
+255. Alamogordo, New Mexico  ----->  571.8793855756693 KM traveled.
+256. Amarillo, Texas  ----->  444.19222289257203 KM traveled.
+257. Altus, Oklahoma  ----->  240.2604777658552 KM traveled.
+258. Aiken, South Carolina  ----->  131.5991765207596 KM traveled.
+259. Abilene, Texas  ----->  124.67978789840764 KM traveled.
+260. Alva, Oklahoma  ----->  495.5607105914826 KM traveled.
+261. Abilene, Kansas  ----->  268.13811431771404 KM traveled.
+262. Alexandria, Minnesota  ----->  287.002765121752 KM traveled.
+263. Alexandria, Louisiana  ----->  345.24400367596735 KM traveled.
+264. Alton, Illinois  ----->  195.93038052791144 KM traveled.
+265. Alajuela, Costa Rica  ----->  551.2219091752229 KM traveled.
+266. Alpena, Michigan  ----->  785.1524677037655 KM traveled.
+267. Ahmadabad, Gujarat  ----->  1038.7641359259999 KM traveled.
+268. Acajutla, El Salvador  ----->  690.3158159059216 KM traveled.
+269. Amatitlan, Guatemala  ----->  278.0301463894575 KM traveled.
+270. Aguadulce, Panama  ----->  713.5222077531349 KM traveled.
+271. Albert Lea, Minnesota  ----->  556.9781209594967 KM traveled.
+272. Ad Dur, Bahrain  ----->  537.7121455875343 KM traveled.
+273. Acapulco, Mexico  ----->  529.8380128890859 KM traveled.
+274. Afobaka, Suriname  ----->  1226.1396352522859 KM traveled.
+275. Alliance, Nebraska  ----->  1685.716577324012 KM traveled.
+276. Aguadilla, Puerto Rico  ----->  87.02436374976912 KM traveled.
+277. Alice, Texas  ----->  475.67342879113977 KM traveled.
+278. Ahwar, Yemen  ----->  1803.5042635517843 KM traveled.
+279. Aguada, Goa  ----->  257.2694765132022 KM traveled.
+280. Abraham's Bay, Bahamas  ----->  1276.9538557244737 KM traveled.
+281. Adilang, Uganda  ----->  957.8630321325654 KM traveled.
+282. All Saints, Antigua and Barbuda  ----->  1393.8440966079497 KM traveled.
+283. Adzope, Ivory Coast  ----->  759.5707429697718 KM traveled.
+284. Ambato, Ecuador  ----->  2761.2668695898196 KM traveled.
+285. Algona, Iowa  ----->  3025.0096131610553 KM traveled.
+286. Albion, Pennsylvania  ----->  1919.0496919918694 KM traveled.
+287. Albany, New York  ----->  610.9451131526998 KM traveled.
+288. Aleg, Mauritania  ----->  5642.826535650656 KM traveled.
+289. Alesund, Norway  ----->  2569.6358935207686 KM traveled.
+290. Aksum, Ethiopia  ----->  6637.810299713308 KM traveled.
+291. Albina, Suriname  ----->  6096.395756779008 KM traveled.
+292. Akot, Maharashtra  ----->  1735.9435977938815 KM traveled.
+293. Alpine, Texas  ----->  1041.8008699542777 KM traveled.
+294. Ajmer, Rajasthan  ----->  745.2219929633987 KM traveled.
+295. Alcova, Wyoming  ----->  370.36529139527335 KM traveled.
+296. Aberdeen, Washington  ----->  2038.7856480254159 KM traveled.
+297. Albany, Oregon  ----->  375.131080722224 KM traveled.
+298. Alturas, California  ----->  321.0723630338114 KM traveled.
+299. Alamo, Nevada  ----->  1071.1347309911628 KM traveled.
+300. Alamosa, Colorado  ----->  887.6212337189609 KM traveled.
+Back to: Istanbul, Turkey  ----->  10750.680545248215 KM traveled.
+
+Total Distance is  ----->  220207.1540775033 KM
+
+Total Execution time: 52 ms

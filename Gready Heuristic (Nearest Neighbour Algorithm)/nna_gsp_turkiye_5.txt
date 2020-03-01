@@ -1,0 +1,12 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 5 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Aarau, Switzerland  ----->  1812.4384052513396 KM traveled.
+3. Aachen, Germany  ----->  405.65963426713887 KM traveled.
+4. Aalst, Belgium  ----->  146.9200381692765 KM traveled.
+Back to: Istanbul, Turkey  ----->  2214.406566206932 KM traveled.
+
+Total Distance is  ----->  4579.424643894687 KM
+
+Total Execution time: 3 ms

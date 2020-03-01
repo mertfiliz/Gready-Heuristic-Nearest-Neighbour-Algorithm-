@@ -1,0 +1,18 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 10 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Afyon, Turkey  ----->  287.44631628273964 KM traveled.
+3. Aksehir, Turkey  ----->  88.16109917769019 KM traveled.
+4. Antalya, Turkey  ----->  176.12425937204023 KM traveled.
+5. Anamur, Turkey  ----->  210.18208479086277 KM traveled.
+6. Adana, Turkey  ----->  244.26966585706512 KM traveled.
+7. Antakya, Turkey  ----->  114.84971040364283 KM traveled.
+8. Amasya, Turkey  ----->  494.2827304521269 KM traveled.
+9. Ankara, Turkey  ----->  266.32279444644695 KM traveled.
+10. Artvin, Turkey  ----->  771.9306626282475 KM traveled.
+Back to: Istanbul, Turkey  ----->  1080.7982982569558 KM traveled.
+
+Total Distance is  ----->  3734.3676216678177 KM
+
+Total Execution time: 3 ms

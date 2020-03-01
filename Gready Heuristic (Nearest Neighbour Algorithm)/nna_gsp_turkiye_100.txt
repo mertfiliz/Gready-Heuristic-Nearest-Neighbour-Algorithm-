@@ -1,0 +1,108 @@
+[NEAREST NEIGHBOUR ALGORITHM] for the first 100 cities: 
+
+
+1. Istanbul, Turkey  ----->   Starting Point
+2. Afyon, Turkey  ----->  287.44631628273964 KM traveled.
+3. Adana, Turkey  ----->  461.11315006920125 KM traveled.
+4. Afula, Israel  ----->  493.7221418995219 KM traveled.
+5. Abu Kamal, Syria  ----->  564.2742298904467 KM traveled.
+6. Ad Diwaniyah, Iraq  ----->  464.5277136441867 KM traveled.
+7. Ahvaz, Iran  ----->  366.892461888055 KM traveled.
+8. Abadan, Iran  ----->  115.93339953570538 KM traveled.
+9. Ad Dammam, Saudi Arabia  ----->  474.08093437593914 KM traveled.
+10. Ad Dur, Bahrain  ----->  70.38823285326615 KM traveled.
+11. Abu Samrah, Qatar  ----->  92.10752171691736 KM traveled.
+12. Adh Dhakhirah, Qatar  ----->  80.92662790497016 KM traveled.
+13. Abu Dhabi, United Arab Emirates  ----->  318.0702766655583 KM traveled.
+14. Afif, Saudi Arabia  ----->  1166.8926675865712 KM traveled.
+15. Abha, Saudi Arabia  ----->  638.2698401121484 KM traveled.
+16. Adi Ugri, Eritrea  ----->  542.5770270972173 KM traveled.
+17. Adigrat, Ethiopia  ----->  97.10428516394383 KM traveled.
+18. Addis Ababa, Ethiopia  ----->  592.4449837839855 KM traveled.
+19. Aden, Yemen  ----->  825.0992483015438 KM traveled.
+20. Ahwar, Yemen  ----->  184.44767615092834 KM traveled.
+21. Abu Simbel, Egypt  ----->  1879.8236187645025 KM traveled.
+22. Ajdabiya, Libya  ----->  1473.962049799629 KM traveled.
+23. Adri, Libya  ----->  770.831751514979 KM traveled.
+24. Adh Dhahibat, Tunisia  ----->  562.9851046212799 KM traveled.
+25. Ahaggar Mountains, Algeria  ----->  1089.7780783138326 KM traveled.
+26. Agadez, Niger  ----->  691.2205730333505 KM traveled.
+27. Abuja, Nigeria  ----->  875.5980499190423 KM traveled.
+28. Aba, Nigeria  ----->  452.8789899452595 KM traveled.
+29. Abeokuta, Nigeria  ----->  500.7263873640424 KM traveled.
+30. Abomey, Benin  ----->  151.87238212827108 KM traveled.
+31. Accra, Ghana  ----->  304.61996518926753 KM traveled.
+32. Aboisso, Ivory Coast  ----->  335.56893914183365 KM traveled.
+33. Abidjan, Ivory Coast  ----->  101.36235558341559 KM traveled.
+34. Agboville, Ivory Coast  ----->  64.27609708432038 KM traveled.
+35. Adzope, Ivory Coast  ----->  44.270391622340064 KM traveled.
+36. Abengourou, Ivory Coast  ----->  82.04486714419954 KM traveled.
+37. Ain Ben Tili, Mauritania  ----->  2246.5969335711557 KM traveled.
+38. Agadir, Morocco  ----->  491.5329790531798 KM traveled.
+39. Abadla, Algeria  ----->  663.286105733716 KM traveled.
+40. Adrar, Algeria  ----->  422.1447844549398 KM traveled.
+41. Ajaccio, France  ----->  1767.7134949886924 KM traveled.
+42. Acquaviva, San Marino  ----->  377.39999914405433 KM traveled.
+43. Aarau, Switzerland  ----->  512.8267660964401 KM traveled.
+44. Aachen, Germany  ----->  405.65963426713887 KM traveled.
+45. Aalst, Belgium  ----->  146.9200381692765 KM traveled.
+46. Abenra, Denmark  ----->  584.1409939854642 KM traveled.
+47. Aizpute, Latvia  ----->  784.4848439321778 KM traveled.
+48. Ainazi, Latvia  ----->  209.84867658639166 KM traveled.
+49. Adutiskis, Lithuania  ----->  333.93552870278256 KM traveled.
+50. Adjud, Romania  ----->  1011.6921654889586 KM traveled.
+51. Agrinion, Greece  ----->  959.2917187393283 KM traveled.
+52. Abastumani, Georgia (Asia)  ----->  1854.9146557155527 KM traveled.
+53. Agstafa, Azerbaijan  ----->  231.06432083945822 KM traveled.
+54. Agdam, Azerbaijan  ----->  180.05994031641808 KM traveled.
+55. Agcabadi, Azerbaijan  ----->  44.84120047197833 KM traveled.
+56. Agsu, Azerbaijan  ----->  99.5747197404003 KM traveled.
+57. Achabal, Kashmir  ----->  2504.7055457009205 KM traveled.
+58. Abohar, Punjab  ----->  375.3751889570302 KM traveled.
+59. Agra, India  ----->  501.6327675184808 KM traveled.
+60. Agra, Uttar Pradesh  ----->  0.0 KM traveled.
+61. Achalpur, Maharashtra  ----->  664.4992184201071 KM traveled.
+62. Adilabad, Andhra Pradesh  ----->  206.80042453128982 KM traveled.
+63. Ahmadnagar, Maharashtra  ----->  405.8023490393756 KM traveled.
+64. Ahwa, Gujarat  ----->  216.69380800488804 KM traveled.
+65. Abu Road, Rajasthan  ----->  203.68066825132632 KM traveled.
+66. Ahmadabad, Gujarat  ----->  75.54388924751318 KM traveled.
+67. Aguada, Goa  ----->  847.5762121785715 KM traveled.
+68. Adoni, Andhra Pradesh  ----->  377.86934303695097 KM traveled.
+69. Adur, Kerala  ----->  724.0763086777075 KM traveled.
+70. Agartala, Tripura  ----->  2255.045396783928 KM traveled.
+71. Aizawl, Mizoram  ----->  148.56123829581446 KM traveled.
+72. Aberdeen, Hong Kong  ----->  2207.746531401586 KM traveled.
+73. Airai, Palau  ----->  2753.0509325102416 KM traveled.
+74. Agana, Guam  ----->  1310.9214673484819 KM traveled.
+75. Aihui, China  ----->  4401.6057458783935 KM traveled.
+76. Aberdeen, Washington  ----->  7263.001921404137 KM traveled.
+77. Afton, Wyoming  ----->  1124.029169208365 KM traveled.
+78. Ainsworth, Nebraska  ----->  909.2421489597866 KM traveled.
+79. Aberdeen, South Dakota  ----->  343.42471575598955 KM traveled.
+80. Aitkin, Minnesota  ----->  388.1626261502215 KM traveled.
+81. Abilene, Kansas  ----->  897.8096525085394 KM traveled.
+82. Ada, Oklahoma  ----->  462.72975854083495 KM traveled.
+83. Abilene, Texas  ----->  385.71230721238334 KM traveled.
+84. Aguascalientes, Mexico  ----->  1208.0606475667566 KM traveled.
+85. Acapulco, Mexico  ----->  615.2487390952471 KM traveled.
+86. Ahuachapan, El Salvador  ----->  1132.5957360287787 KM traveled.
+87. Acajutla, El Salvador  ----->  38.04030824359421 KM traveled.
+88. Aguilares, El Salvador  ----->  81.73878598106545 KM traveled.
+89. Aguadulce, Panama  ----->  1139.8730518211112 KM traveled.
+90. Aguadilla, Puerto Rico  ----->  1845.8351817683133 KM traveled.
+91. Adjuntas, Puerto Rico  ----->  54.06493654316251 KM traveled.
+92. Abraham's Bay, Bahamas  ----->  958.6678706396078 KM traveled.
+93. Aiken, South Carolina  ----->  1325.7243122395303 KM traveled.
+94. Aberdeen, Maryland  ----->  829.2977453133044 KM traveled.
+95. Afobaka, Suriname  ----->  4407.363544794828 KM traveled.
+96. Achar, Uruguay  ----->  4181.763980010948 KM traveled.
+97. Abeche, Chad  ----->  9691.509097728243 KM traveled.
+98. Adilang, Uganda  ----->  1867.1409163999858 KM traveled.
+99. Adelaide, South Australia  ----->  11610.041628002471 KM traveled.
+100. A'opo, Western Samoa  ----->  5459.8562487913305 KM traveled.
+Back to: Istanbul, Turkey  ----->  16387.1545151895 KM traveled.
+
+Total Distance is  ----->  125335.34441777057 KM
+
+Total Execution time: 16 ms
